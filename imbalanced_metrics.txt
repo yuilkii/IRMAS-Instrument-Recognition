@@ -1,0 +1,8 @@
+Mode: train_imbalanced.csv
+Macro AUC: 0.6832
+Piano: 0.3542
+Acoustic Guitar: 0.4000
+Violin: 0.1373
+Flute: 0.1429
+Trumpet: 0.2658
+Saxophone: 0.0000

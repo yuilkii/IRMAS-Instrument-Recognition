@@ -1,0 +1,1021 @@
+track_id,fragment_id,wav_path,class,label
+[pia][pop_roc]1345__3,[pia][pop_roc]1345__3,IRMAS-TrainingData\pia\[pia][pop_roc]1345__3.wav,Piano,0
+[pia][pop_roc]1546__1,[pia][pop_roc]1546__1,IRMAS-TrainingData\pia\[pia][pop_roc]1546__1.wav,Piano,0
+[pia][pop_roc]1443__3,[pia][pop_roc]1443__3,IRMAS-TrainingData\pia\[pia][pop_roc]1443__3.wav,Piano,0
+[pia][jaz_blu]1514__2,[pia][jaz_blu]1514__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1514__2.wav,Piano,0
+137__[pia][nod][cla]1381__1,137__[pia][nod][cla]1381__1,IRMAS-TrainingData\pia\137__[pia][nod][cla]1381__1.wav,Piano,0
+[pia][pop_roc]1330__1,[pia][pop_roc]1330__1,IRMAS-TrainingData\pia\[pia][pop_roc]1330__1.wav,Piano,0
+[pia][pop_roc]1546__2,[pia][pop_roc]1546__2,IRMAS-TrainingData\pia\[pia][pop_roc]1546__2.wav,Piano,0
+[pia][jaz_blu]1475__1,[pia][jaz_blu]1475__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1475__1.wav,Piano,0
+[pia][jaz_blu]1508__1,[pia][jaz_blu]1508__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1508__1.wav,Piano,0
+[pia][jaz_blu]1359__3,[pia][jaz_blu]1359__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1359__3.wav,Piano,0
+031__[pia][nod][cla]1444__1,031__[pia][nod][cla]1444__1,IRMAS-TrainingData\pia\031__[pia][nod][cla]1444__1.wav,Piano,0
+[pia][jaz_blu]1360__1,[pia][jaz_blu]1360__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1360__1.wav,Piano,0
+[pia][cla]1562__1,[pia][cla]1562__1,IRMAS-TrainingData\pia\[pia][cla]1562__1.wav,Piano,0
+254__[pia][nod][cla]1406__1,254__[pia][nod][cla]1406__1,IRMAS-TrainingData\pia\254__[pia][nod][cla]1406__1.wav,Piano,0
+[pia][cla]1312__2,[pia][cla]1312__2,IRMAS-TrainingData\pia\[pia][cla]1312__2.wav,Piano,0
+[pia][jaz_blu]1340__3,[pia][jaz_blu]1340__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1340__3.wav,Piano,0
+[pia][jaz_blu]1500__2,[pia][jaz_blu]1500__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1500__2.wav,Piano,0
+[pia][cla]1291__2,[pia][cla]1291__2,IRMAS-TrainingData\pia\[pia][cla]1291__2.wav,Piano,0
+[pia][cla]1325__2,[pia][cla]1325__2,IRMAS-TrainingData\pia\[pia][cla]1325__2.wav,Piano,0
+196__[pia][nod][pop_roc]1439__2,196__[pia][nod][pop_roc]1439__2,IRMAS-TrainingData\pia\196__[pia][nod][pop_roc]1439__2.wav,Piano,0
+219__[pia][nod][cla]1393__2,219__[pia][nod][cla]1393__2,IRMAS-TrainingData\pia\219__[pia][nod][cla]1393__2.wav,Piano,0
+118__[pia][dru][jaz_blu]1429__3,118__[pia][dru][jaz_blu]1429__3,IRMAS-TrainingData\pia\118__[pia][dru][jaz_blu]1429__3.wav,Piano,0
+[pia][cla]1458__2,[pia][cla]1458__2,IRMAS-TrainingData\pia\[pia][cla]1458__2.wav,Piano,0
+152__[pia][dru][pop_roc]1440__3,152__[pia][dru][pop_roc]1440__3,IRMAS-TrainingData\pia\152__[pia][dru][pop_roc]1440__3.wav,Piano,0
+[pia][jaz_blu]1507__3,[pia][jaz_blu]1507__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1507__3.wav,Piano,0
+[pia][jaz_blu]1518__3,[pia][jaz_blu]1518__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1518__3.wav,Piano,0
+[pia][pop_roc]1541__2,[pia][pop_roc]1541__2,IRMAS-TrainingData\pia\[pia][pop_roc]1541__2.wav,Piano,0
+063__[pia][nod][cla]1418__1,063__[pia][nod][cla]1418__1,IRMAS-TrainingData\pia\063__[pia][nod][cla]1418__1.wav,Piano,0
+[pia][pop_roc]1335__3,[pia][pop_roc]1335__3,IRMAS-TrainingData\pia\[pia][pop_roc]1335__3.wav,Piano,0
+[pia][jaz_blu]1339__1,[pia][jaz_blu]1339__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1339__1.wav,Piano,0
+[pia][pop_roc]1303__3,[pia][pop_roc]1303__3,IRMAS-TrainingData\pia\[pia][pop_roc]1303__3.wav,Piano,0
+187__[pia][nod][cla]1404__2,187__[pia][nod][cla]1404__2,IRMAS-TrainingData\pia\187__[pia][nod][cla]1404__2.wav,Piano,0
+[pia][pop_roc]1287__2,[pia][pop_roc]1287__2,IRMAS-TrainingData\pia\[pia][pop_roc]1287__2.wav,Piano,0
+[pia][jaz_blu]1373__1,[pia][jaz_blu]1373__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1373__1.wav,Piano,0
+219__[pia][nod][cla]1393__1,219__[pia][nod][cla]1393__1,IRMAS-TrainingData\pia\219__[pia][nod][cla]1393__1.wav,Piano,0
+224__[pia][dru][cou_fol]1422__1,224__[pia][dru][cou_fol]1422__1,IRMAS-TrainingData\pia\224__[pia][dru][cou_fol]1422__1.wav,Piano,0
+254__[pia][nod][cla]1406__2,254__[pia][nod][cla]1406__2,IRMAS-TrainingData\pia\254__[pia][nod][cla]1406__2.wav,Piano,0
+[pia][pop_roc]1311__1,[pia][pop_roc]1311__1,IRMAS-TrainingData\pia\[pia][pop_roc]1311__1.wav,Piano,0
+228__[pia][nod][pop_roc]1437__1,228__[pia][nod][pop_roc]1437__1,IRMAS-TrainingData\pia\228__[pia][nod][pop_roc]1437__1.wav,Piano,0
+[pia][jaz_blu]1480__1,[pia][jaz_blu]1480__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1480__1.wav,Piano,0
+067__[pia][nod][cla]1388__1,067__[pia][nod][cla]1388__1,IRMAS-TrainingData\pia\067__[pia][nod][cla]1388__1.wav,Piano,0
+[pia][jaz_blu]1470__3,[pia][jaz_blu]1470__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1470__3.wav,Piano,0
+[pia][jaz_blu]1360__3,[pia][jaz_blu]1360__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1360__3.wav,Piano,0
+[pia][cla]1341__3,[pia][cla]1341__3,IRMAS-TrainingData\pia\[pia][cla]1341__3.wav,Piano,0
+[pia][jaz_blu]1482__1,[pia][jaz_blu]1482__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1482__1.wav,Piano,0
+[pia][pop_roc]1296__2,[pia][pop_roc]1296__2,IRMAS-TrainingData\pia\[pia][pop_roc]1296__2.wav,Piano,0
+[pia][cla]1449__3,[pia][cla]1449__3,IRMAS-TrainingData\pia\[pia][cla]1449__3.wav,Piano,0
+[pia][jaz_blu]1483__3,[pia][jaz_blu]1483__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1483__3.wav,Piano,0
+[pia][cla]1338__2,[pia][cla]1338__2,IRMAS-TrainingData\pia\[pia][cla]1338__2.wav,Piano,0
+[pia][jaz_blu]1516__3,[pia][jaz_blu]1516__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1516__3.wav,Piano,0
+[pia][cla]1346__1,[pia][cla]1346__1,IRMAS-TrainingData\pia\[pia][cla]1346__1.wav,Piano,0
+[pia][pop_roc]1450__1,[pia][pop_roc]1450__1,IRMAS-TrainingData\pia\[pia][pop_roc]1450__1.wav,Piano,0
+[pia][jaz_blu]1490__3,[pia][jaz_blu]1490__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1490__3.wav,Piano,0
+[pia][cla]1292__1,[pia][cla]1292__1,IRMAS-TrainingData\pia\[pia][cla]1292__1.wav,Piano,0
+[pia][jaz_blu]1363__3,[pia][jaz_blu]1363__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1363__3.wav,Piano,0
+[pia][jaz_blu]1529__2,[pia][jaz_blu]1529__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1529__2.wav,Piano,0
+[pia][jaz_blu]1481__1,[pia][jaz_blu]1481__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1481__1.wav,Piano,0
+[pia][jaz_blu]1488__1,[pia][jaz_blu]1488__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1488__1.wav,Piano,0
+[pia][cla]1448__3,[pia][cla]1448__3,IRMAS-TrainingData\pia\[pia][cla]1448__3.wav,Piano,0
+[pia][jaz_blu]1459__1,[pia][jaz_blu]1459__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1459__1.wav,Piano,0
+[pia][jaz_blu]1506__1,[pia][jaz_blu]1506__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1506__1.wav,Piano,0
+[pia][jaz_blu]1514__3,[pia][jaz_blu]1514__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1514__3.wav,Piano,0
+[pia][jaz_blu]1473__2,[pia][jaz_blu]1473__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1473__2.wav,Piano,0
+222__[pia][nod][pop_roc]1438__3,222__[pia][nod][pop_roc]1438__3,IRMAS-TrainingData\pia\222__[pia][nod][pop_roc]1438__3.wav,Piano,0
+[pia][cla]1294__2,[pia][cla]1294__2,IRMAS-TrainingData\pia\[pia][cla]1294__2.wav,Piano,0
+[pia][pop_roc]1290__1,[pia][pop_roc]1290__1,IRMAS-TrainingData\pia\[pia][pop_roc]1290__1.wav,Piano,0
+196__[pia][nod][pop_roc]1439__3,196__[pia][nod][pop_roc]1439__3,IRMAS-TrainingData\pia\196__[pia][nod][pop_roc]1439__3.wav,Piano,0
+[pia][cla]1361__2,[pia][cla]1361__2,IRMAS-TrainingData\pia\[pia][cla]1361__2.wav,Piano,0
+086__[pia][dru][jaz_blu]1424__1,086__[pia][dru][jaz_blu]1424__1,IRMAS-TrainingData\pia\086__[pia][dru][jaz_blu]1424__1.wav,Piano,0
+[pia][jaz_blu]1494__3,[pia][jaz_blu]1494__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1494__3.wav,Piano,0
+[pia][jaz_blu]1371__1,[pia][jaz_blu]1371__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1371__1.wav,Piano,0
+[pia][jaz_blu]1523__3,[pia][jaz_blu]1523__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1523__3.wav,Piano,0
+153__[pia][dru][cou_fol]1419__2,153__[pia][dru][cou_fol]1419__2,IRMAS-TrainingData\pia\153__[pia][dru][cou_fol]1419__2.wav,Piano,0
+[pia][jaz_blu]1510__3,[pia][jaz_blu]1510__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1510__3.wav,Piano,0
+178__[pia][nod][cla]1379__3,178__[pia][nod][cla]1379__3,IRMAS-TrainingData\pia\178__[pia][nod][cla]1379__3.wav,Piano,0
+[pia][pop_roc]1334__3,[pia][pop_roc]1334__3,IRMAS-TrainingData\pia\[pia][pop_roc]1334__3.wav,Piano,0
+125__[pia][nod][cla]1378__3,125__[pia][nod][cla]1378__3,IRMAS-TrainingData\pia\125__[pia][nod][cla]1378__3.wav,Piano,0
+222__[pia][nod][pop_roc]1438__2,222__[pia][nod][pop_roc]1438__2,IRMAS-TrainingData\pia\222__[pia][nod][pop_roc]1438__2.wav,Piano,0
+[pia][cla]1375__2,[pia][cla]1375__2,IRMAS-TrainingData\pia\[pia][cla]1375__2.wav,Piano,0
+[pia][jaz_blu]1484__1,[pia][jaz_blu]1484__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1484__1.wav,Piano,0
+[pia][jaz_blu]1509__3,[pia][jaz_blu]1509__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1509__3.wav,Piano,0
+212__[pia][nod][cla]1397__3,212__[pia][nod][cla]1397__3,IRMAS-TrainingData\pia\212__[pia][nod][cla]1397__3.wav,Piano,0
+[pia][jaz_blu]1479__3,[pia][jaz_blu]1479__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1479__3.wav,Piano,0
+135__[pia][nod][cla]1396__2,135__[pia][nod][cla]1396__2,IRMAS-TrainingData\pia\135__[pia][nod][cla]1396__2.wav,Piano,0
+[pia][cla]1324__1,[pia][cla]1324__1,IRMAS-TrainingData\pia\[pia][cla]1324__1.wav,Piano,0
+[pia][jaz_blu]1484__2,[pia][jaz_blu]1484__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1484__2.wav,Piano,0
+[pia][jaz_blu]1354__2,[pia][jaz_blu]1354__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1354__2.wav,Piano,0
+051__[pia][dru][jaz_blu]1431__2,051__[pia][dru][jaz_blu]1431__2,IRMAS-TrainingData\pia\051__[pia][dru][jaz_blu]1431__2.wav,Piano,0
+[pia][jaz_blu]1472__1,[pia][jaz_blu]1472__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1472__1.wav,Piano,0
+086__[pia][dru][jaz_blu]1424__2,086__[pia][dru][jaz_blu]1424__2,IRMAS-TrainingData\pia\086__[pia][dru][jaz_blu]1424__2.wav,Piano,0
+[pia][jaz_blu]1463__3,[pia][jaz_blu]1463__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1463__3.wav,Piano,0
+[pia][pop_roc]1326__3,[pia][pop_roc]1326__3,IRMAS-TrainingData\pia\[pia][pop_roc]1326__3.wav,Piano,0
+[pia][jaz_blu]1372__1,[pia][jaz_blu]1372__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1372__1.wav,Piano,0
+[pia][cla]1341__1,[pia][cla]1341__1,IRMAS-TrainingData\pia\[pia][cla]1341__1.wav,Piano,0
+[pia][jaz_blu]1460__2,[pia][jaz_blu]1460__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1460__2.wav,Piano,0
+125__[pia][nod][cla]1378__1,125__[pia][nod][cla]1378__1,IRMAS-TrainingData\pia\125__[pia][nod][cla]1378__1.wav,Piano,0
+[pia][jaz_blu]1372__2,[pia][jaz_blu]1372__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1372__2.wav,Piano,0
+[pia][cla]1324__3,[pia][cla]1324__3,IRMAS-TrainingData\pia\[pia][cla]1324__3.wav,Piano,0
+051__[pia][dru][jaz_blu]1431__3,051__[pia][dru][jaz_blu]1431__3,IRMAS-TrainingData\pia\051__[pia][dru][jaz_blu]1431__3.wav,Piano,0
+[pia][jaz_blu]1301__2,[pia][jaz_blu]1301__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1301__2.wav,Piano,0
+152__[pia][dru][pop_roc]1440__1,152__[pia][dru][pop_roc]1440__1,IRMAS-TrainingData\pia\152__[pia][dru][pop_roc]1440__1.wav,Piano,0
+[pia][jaz_blu]1336__2,[pia][jaz_blu]1336__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1336__2.wav,Piano,0
+212__[pia][nod][cla]1397__2,212__[pia][nod][cla]1397__2,IRMAS-TrainingData\pia\212__[pia][nod][cla]1397__2.wav,Piano,0
+[pia][pop_roc]1541__3,[pia][pop_roc]1541__3,IRMAS-TrainingData\pia\[pia][pop_roc]1541__3.wav,Piano,0
+063__[pia][nod][cla]1418__2,063__[pia][nod][cla]1418__2,IRMAS-TrainingData\pia\063__[pia][nod][cla]1418__2.wav,Piano,0
+[pia][cla]1453__2,[pia][cla]1453__2,IRMAS-TrainingData\pia\[pia][cla]1453__2.wav,Piano,0
+[pia][jaz_blu]1491__3,[pia][jaz_blu]1491__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1491__3.wav,Piano,0
+199__[pia][nod][cla]1383__1,199__[pia][nod][cla]1383__1,IRMAS-TrainingData\pia\199__[pia][nod][cla]1383__1.wav,Piano,0
+[pia][pop_roc]1332__3,[pia][pop_roc]1332__3,IRMAS-TrainingData\pia\[pia][pop_roc]1332__3.wav,Piano,0
+[pia][pop_roc]1334__2,[pia][pop_roc]1334__2,IRMAS-TrainingData\pia\[pia][pop_roc]1334__2.wav,Piano,0
+002__[pia][nod][cla]1382__3,002__[pia][nod][cla]1382__3,IRMAS-TrainingData\pia\002__[pia][nod][cla]1382__3.wav,Piano,0
+124__[pia][nod][jaz_blu]1426__2,124__[pia][nod][jaz_blu]1426__2,IRMAS-TrainingData\pia\124__[pia][nod][jaz_blu]1426__2.wav,Piano,0
+031__[pia][nod][cla]1444__2,031__[pia][nod][cla]1444__2,IRMAS-TrainingData\pia\031__[pia][nod][cla]1444__2.wav,Piano,0
+[pia][cla]1364__3,[pia][cla]1364__3,IRMAS-TrainingData\pia\[pia][cla]1364__3.wav,Piano,0
+[pia][cla]1312__3,[pia][cla]1312__3,IRMAS-TrainingData\pia\[pia][cla]1312__3.wav,Piano,0
+215__[pia][dru][jaz_blu]1432__3,215__[pia][dru][jaz_blu]1432__3,IRMAS-TrainingData\pia\215__[pia][dru][jaz_blu]1432__3.wav,Piano,0
+[pia][jaz_blu]1521__3,[pia][jaz_blu]1521__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1521__3.wav,Piano,0
+[pia][pop_roc]1326__2,[pia][pop_roc]1326__2,IRMAS-TrainingData\pia\[pia][pop_roc]1326__2.wav,Piano,0
+[pia][pop_roc]1537__1,[pia][pop_roc]1537__1,IRMAS-TrainingData\pia\[pia][pop_roc]1537__1.wav,Piano,0
+160__[pia][nod][jaz_blu]1433__1,160__[pia][nod][jaz_blu]1433__1,IRMAS-TrainingData\pia\160__[pia][nod][jaz_blu]1433__1.wav,Piano,0
+[pia][cla]1456__1,[pia][cla]1456__1,IRMAS-TrainingData\pia\[pia][cla]1456__1.wav,Piano,0
+[pia][pop_roc]1351__3,[pia][pop_roc]1351__3,IRMAS-TrainingData\pia\[pia][pop_roc]1351__3.wav,Piano,0
+[pia][cla]1497__2,[pia][cla]1497__2,IRMAS-TrainingData\pia\[pia][cla]1497__2.wav,Piano,0
+170__[pia][nod][cla]1403__3,170__[pia][nod][cla]1403__3,IRMAS-TrainingData\pia\170__[pia][nod][cla]1403__3.wav,Piano,0
+072__[pia][nod][cla]1395__2,072__[pia][nod][cla]1395__2,IRMAS-TrainingData\pia\072__[pia][nod][cla]1395__2.wav,Piano,0
+[pia][pop_roc]1333__2,[pia][pop_roc]1333__2,IRMAS-TrainingData\pia\[pia][pop_roc]1333__2.wav,Piano,0
+[pia][jaz_blu]1473__3,[pia][jaz_blu]1473__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1473__3.wav,Piano,0
+[pia][jaz_blu]1486__3,[pia][jaz_blu]1486__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1486__3.wav,Piano,0
+104__[pia][nod][cla]1387__3,104__[pia][nod][cla]1387__3,IRMAS-TrainingData\pia\104__[pia][nod][cla]1387__3.wav,Piano,0
+[pia][pop_roc]1281__1,[pia][pop_roc]1281__1,IRMAS-TrainingData\pia\[pia][pop_roc]1281__1.wav,Piano,0
+[pia][jaz_blu]1505__1,[pia][jaz_blu]1505__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1505__1.wav,Piano,0
+[pia][jaz_blu]1517__2,[pia][jaz_blu]1517__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1517__2.wav,Piano,0
+029__[pia][nod][cla]1411__2,029__[pia][nod][cla]1411__2,IRMAS-TrainingData\pia\029__[pia][nod][cla]1411__2.wav,Piano,0
+[pia][jaz_blu]1510__2,[pia][jaz_blu]1510__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1510__2.wav,Piano,0
+[pia][cla]1350__1,[pia][cla]1350__1,IRMAS-TrainingData\pia\[pia][cla]1350__1.wav,Piano,0
+204__[pia][nod][cla]1401__3,204__[pia][nod][cla]1401__3,IRMAS-TrainingData\pia\204__[pia][nod][cla]1401__3.wav,Piano,0
+[pia][cla]1457__1,[pia][cla]1457__1,IRMAS-TrainingData\pia\[pia][cla]1457__1.wav,Piano,0
+[pia][jaz_blu]1477__1,[pia][jaz_blu]1477__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1477__1.wav,Piano,0
+001__[pia][nod][cla]1389__2,001__[pia][nod][cla]1389__2,IRMAS-TrainingData\pia\001__[pia][nod][cla]1389__2.wav,Piano,0
+[pia][jaz_blu]1356__3,[pia][jaz_blu]1356__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1356__3.wav,Piano,0
+[pia][cla]1346__3,[pia][cla]1346__3,IRMAS-TrainingData\pia\[pia][cla]1346__3.wav,Piano,0
+[pia][jaz_blu]1472__3,[pia][jaz_blu]1472__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1472__3.wav,Piano,0
+[pia][cla]1283__3,[pia][cla]1283__3,IRMAS-TrainingData\pia\[pia][cla]1283__3.wav,Piano,0
+131__[pia][nod][cla]1402__2,131__[pia][nod][cla]1402__2,IRMAS-TrainingData\pia\131__[pia][nod][cla]1402__2.wav,Piano,0
+[pia][jaz_blu]1513__2,[pia][jaz_blu]1513__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1513__2.wav,Piano,0
+[pia][jaz_blu]1359__2,[pia][jaz_blu]1359__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1359__2.wav,Piano,0
+108__[pia][nod][cla]1386__2,108__[pia][nod][cla]1386__2,IRMAS-TrainingData\pia\108__[pia][nod][cla]1386__2.wav,Piano,0
+[pia][jaz_blu]1514__1,[pia][jaz_blu]1514__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1514__1.wav,Piano,0
+[pia][jaz_blu]1520__2,[pia][jaz_blu]1520__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1520__2.wav,Piano,0
+[pia][pop_roc]1377__1,[pia][pop_roc]1377__1,IRMAS-TrainingData\pia\[pia][pop_roc]1377__1.wav,Piano,0
+[pia][jaz_blu]1525__1,[pia][jaz_blu]1525__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1525__1.wav,Piano,0
+[pia][pop_roc]1317__2,[pia][pop_roc]1317__2,IRMAS-TrainingData\pia\[pia][pop_roc]1317__2.wav,Piano,0
+032__[pia][dru][jaz_blu]1425__1,032__[pia][dru][jaz_blu]1425__1,IRMAS-TrainingData\pia\032__[pia][dru][jaz_blu]1425__1.wav,Piano,0
+[pia][jaz_blu]1461__3,[pia][jaz_blu]1461__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1461__3.wav,Piano,0
+[pia][jaz_blu]1491__1,[pia][jaz_blu]1491__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1491__1.wav,Piano,0
+[pia][pop_roc]1343__3,[pia][pop_roc]1343__3,IRMAS-TrainingData\pia\[pia][pop_roc]1343__3.wav,Piano,0
+[pia][jaz_blu]1460__3,[pia][jaz_blu]1460__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1460__3.wav,Piano,0
+[pia][pop_roc]1302__2,[pia][pop_roc]1302__2,IRMAS-TrainingData\pia\[pia][pop_roc]1302__2.wav,Piano,0
+[pia][cla]1362__2,[pia][cla]1362__2,IRMAS-TrainingData\pia\[pia][cla]1362__2.wav,Piano,0
+[pia][jaz_blu]1530__3,[pia][jaz_blu]1530__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1530__3.wav,Piano,0
+[pia][jaz_blu]1358__1,[pia][jaz_blu]1358__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1358__1.wav,Piano,0
+[pia][jaz_blu]1526__1,[pia][jaz_blu]1526__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1526__1.wav,Piano,0
+[pia][jaz_blu]1353__1,[pia][jaz_blu]1353__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1353__1.wav,Piano,0
+[pia][jaz_blu]1528__1,[pia][jaz_blu]1528__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1528__1.wav,Piano,0
+153__[pia][dru][cou_fol]1419__3,153__[pia][dru][cou_fol]1419__3,IRMAS-TrainingData\pia\153__[pia][dru][cou_fol]1419__3.wav,Piano,0
+[pia][jaz_blu]1329__1,[pia][jaz_blu]1329__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1329__1.wav,Piano,0
+190__[pia][dru][jaz_blu]1435__1,190__[pia][dru][jaz_blu]1435__1,IRMAS-TrainingData\pia\190__[pia][dru][jaz_blu]1435__1.wav,Piano,0
+067__[pia][nod][cla]1388__2,067__[pia][nod][cla]1388__2,IRMAS-TrainingData\pia\067__[pia][nod][cla]1388__2.wav,Piano,0
+[pia][jaz_blu]1356__2,[pia][jaz_blu]1356__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1356__2.wav,Piano,0
+[pia][jaz_blu]1339__3,[pia][jaz_blu]1339__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1339__3.wav,Piano,0
+239__[pia][nod][cla]1391__2,239__[pia][nod][cla]1391__2,IRMAS-TrainingData\pia\239__[pia][nod][cla]1391__2.wav,Piano,0
+[pia][jaz_blu]1489__1,[pia][jaz_blu]1489__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1489__1.wav,Piano,0
+[pia][jaz_blu]1494__1,[pia][jaz_blu]1494__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1494__1.wav,Piano,0
+254__[pia][nod][cla]1406__3,254__[pia][nod][cla]1406__3,IRMAS-TrainingData\pia\254__[pia][nod][cla]1406__3.wav,Piano,0
+190__[pia][dru][jaz_blu]1435__3,190__[pia][dru][jaz_blu]1435__3,IRMAS-TrainingData\pia\190__[pia][dru][jaz_blu]1435__3.wav,Piano,0
+[pia][jaz_blu]1532__1,[pia][jaz_blu]1532__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1532__1.wav,Piano,0
+[pia][jaz_blu]1532__2,[pia][jaz_blu]1532__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1532__2.wav,Piano,0
+057__[pia][nod][cla]1413__3,057__[pia][nod][cla]1413__3,IRMAS-TrainingData\pia\057__[pia][nod][cla]1413__3.wav,Piano,0
+[pia][cla]1457__3,[pia][cla]1457__3,IRMAS-TrainingData\pia\[pia][cla]1457__3.wav,Piano,0
+[pia][cla]1297__1,[pia][cla]1297__1,IRMAS-TrainingData\pia\[pia][cla]1297__1.wav,Piano,0
+[pia][jaz_blu]1523__1,[pia][jaz_blu]1523__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1523__1.wav,Piano,0
+[pia][pop_roc]1321__2,[pia][pop_roc]1321__2,IRMAS-TrainingData\pia\[pia][pop_roc]1321__2.wav,Piano,0
+064__[pia][dru][jaz_blu]1430__2,064__[pia][dru][jaz_blu]1430__2,IRMAS-TrainingData\pia\064__[pia][dru][jaz_blu]1430__2.wav,Piano,0
+[pia][jaz_blu]1300__2,[pia][jaz_blu]1300__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1300__2.wav,Piano,0
+[pia][cla]1562__2,[pia][cla]1562__2,IRMAS-TrainingData\pia\[pia][cla]1562__2.wav,Piano,0
+[pia][jaz_blu]1530__2,[pia][jaz_blu]1530__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1530__2.wav,Piano,0
+[pia][jaz_blu]1465__2,[pia][jaz_blu]1465__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1465__2.wav,Piano,0
+[pia][jaz_blu]1492__1,[pia][jaz_blu]1492__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1492__1.wav,Piano,0
+[pia][jaz_blu]1522__1,[pia][jaz_blu]1522__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1522__1.wav,Piano,0
+[pia][jaz_blu]1515__3,[pia][jaz_blu]1515__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1515__3.wav,Piano,0
+[pia][cla]1291__1,[pia][cla]1291__1,IRMAS-TrainingData\pia\[pia][cla]1291__1.wav,Piano,0
+[pia][cla]1453__1,[pia][cla]1453__1,IRMAS-TrainingData\pia\[pia][cla]1453__1.wav,Piano,0
+[pia][jaz_blu]1521__2,[pia][jaz_blu]1521__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1521__2.wav,Piano,0
+[pia][jaz_blu]1533__2,[pia][jaz_blu]1533__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1533__2.wav,Piano,0
+[pia][jaz_blu]1328__3,[pia][jaz_blu]1328__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1328__3.wav,Piano,0
+[pia][pop_roc]1315__1,[pia][pop_roc]1315__1,IRMAS-TrainingData\pia\[pia][pop_roc]1315__1.wav,Piano,0
+[pia][pop_roc]1316__2,[pia][pop_roc]1316__2,IRMAS-TrainingData\pia\[pia][pop_roc]1316__2.wav,Piano,0
+[pia][pop_roc]1332__1,[pia][pop_roc]1332__1,IRMAS-TrainingData\pia\[pia][pop_roc]1332__1.wav,Piano,0
+[pia][pop_roc]1310__3,[pia][pop_roc]1310__3,IRMAS-TrainingData\pia\[pia][pop_roc]1310__3.wav,Piano,0
+[pia][jaz_blu]1467__1,[pia][jaz_blu]1467__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1467__1.wav,Piano,0
+[pia][jaz_blu]1480__3,[pia][jaz_blu]1480__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1480__3.wav,Piano,0
+[pia][pop_roc]1296__3,[pia][pop_roc]1296__3,IRMAS-TrainingData\pia\[pia][pop_roc]1296__3.wav,Piano,0
+[pia][jaz_blu]1340__1,[pia][jaz_blu]1340__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1340__1.wav,Piano,0
+[pia][jaz_blu]1527__2,[pia][jaz_blu]1527__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1527__2.wav,Piano,0
+[pia][jaz_blu]1504__1,[pia][jaz_blu]1504__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1504__1.wav,Piano,0
+[pia][jaz_blu]1504__2,[pia][jaz_blu]1504__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1504__2.wav,Piano,0
+[pia][jaz_blu]1509__1,[pia][jaz_blu]1509__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1509__1.wav,Piano,0
+[pia][cla]1370__2,[pia][cla]1370__2,IRMAS-TrainingData\pia\[pia][cla]1370__2.wav,Piano,0
+125__[pia][nod][cla]1378__2,125__[pia][nod][cla]1378__2,IRMAS-TrainingData\pia\125__[pia][nod][cla]1378__2.wav,Piano,0
+[pia][jaz_blu]1475__2,[pia][jaz_blu]1475__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1475__2.wav,Piano,0
+063__[pia][nod][cla]1418__3,063__[pia][nod][cla]1418__3,IRMAS-TrainingData\pia\063__[pia][nod][cla]1418__3.wav,Piano,0
+[pia][pop_roc]1282__3,[pia][pop_roc]1282__3,IRMAS-TrainingData\pia\[pia][pop_roc]1282__3.wav,Piano,0
+[pia][jaz_blu]1534__1,[pia][jaz_blu]1534__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1534__1.wav,Piano,0
+[pia][jaz_blu]1471__1,[pia][jaz_blu]1471__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1471__1.wav,Piano,0
+135__[pia][nod][cla]1396__1,135__[pia][nod][cla]1396__1,IRMAS-TrainingData\pia\135__[pia][nod][cla]1396__1.wav,Piano,0
+[pia][pop_roc]1311__2,[pia][pop_roc]1311__2,IRMAS-TrainingData\pia\[pia][pop_roc]1311__2.wav,Piano,0
+[pia][pop_roc]1344__3,[pia][pop_roc]1344__3,IRMAS-TrainingData\pia\[pia][pop_roc]1344__3.wav,Piano,0
+[pia][pop_roc]1315__2,[pia][pop_roc]1315__2,IRMAS-TrainingData\pia\[pia][pop_roc]1315__2.wav,Piano,0
+084__[pia][nod][cla]1410__3,084__[pia][nod][cla]1410__3,IRMAS-TrainingData\pia\084__[pia][nod][cla]1410__3.wav,Piano,0
+[pia][jaz_blu]1504__3,[pia][jaz_blu]1504__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1504__3.wav,Piano,0
+224__[pia][dru][cou_fol]1422__2,224__[pia][dru][cou_fol]1422__2,IRMAS-TrainingData\pia\224__[pia][dru][cou_fol]1422__2.wav,Piano,0
+[pia][jaz_blu]1328__2,[pia][jaz_blu]1328__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1328__2.wav,Piano,0
+215__[pia][dru][jaz_blu]1432__1,215__[pia][dru][jaz_blu]1432__1,IRMAS-TrainingData\pia\215__[pia][dru][jaz_blu]1432__1.wav,Piano,0
+218__[pia][nod][cla]1417__3,218__[pia][nod][cla]1417__3,IRMAS-TrainingData\pia\218__[pia][nod][cla]1417__3.wav,Piano,0
+[pia][cla]1324__2,[pia][cla]1324__2,IRMAS-TrainingData\pia\[pia][cla]1324__2.wav,Piano,0
+[pia][jaz_blu]1506__3,[pia][jaz_blu]1506__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1506__3.wav,Piano,0
+[pia][jaz_blu]1358__3,[pia][jaz_blu]1358__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1358__3.wav,Piano,0
+[pia][cla]1312__1,[pia][cla]1312__1,IRMAS-TrainingData\pia\[pia][cla]1312__1.wav,Piano,0
+[pia][pop_roc]1315__3,[pia][pop_roc]1315__3,IRMAS-TrainingData\pia\[pia][pop_roc]1315__3.wav,Piano,0
+[pia][jaz_blu]1520__3,[pia][jaz_blu]1520__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1520__3.wav,Piano,0
+[pia][pop_roc]1310__1,[pia][pop_roc]1310__1,IRMAS-TrainingData\pia\[pia][pop_roc]1310__1.wav,Piano,0
+[pia][jaz_blu]1518__1,[pia][jaz_blu]1518__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1518__1.wav,Piano,0
+[pia][jaz_blu]1500__1,[pia][jaz_blu]1500__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1500__1.wav,Piano,0
+032__[pia][dru][jaz_blu]1425__2,032__[pia][dru][jaz_blu]1425__2,IRMAS-TrainingData\pia\032__[pia][dru][jaz_blu]1425__2.wav,Piano,0
+[pia][jaz_blu]1360__2,[pia][jaz_blu]1360__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1360__2.wav,Piano,0
+[pia][jaz_blu]1479__1,[pia][jaz_blu]1479__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1479__1.wav,Piano,0
+[pia][jaz_blu]1486__1,[pia][jaz_blu]1486__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1486__1.wav,Piano,0
+239__[pia][nod][cla]1391__3,239__[pia][nod][cla]1391__3,IRMAS-TrainingData\pia\239__[pia][nod][cla]1391__3.wav,Piano,0
+[pia][cla]1499__2,[pia][cla]1499__2,IRMAS-TrainingData\pia\[pia][cla]1499__2.wav,Piano,0
+[pia][cla]1322__2,[pia][cla]1322__2,IRMAS-TrainingData\pia\[pia][cla]1322__2.wav,Piano,0
+[pia][pop_roc]1289__2,[pia][pop_roc]1289__2,IRMAS-TrainingData\pia\[pia][pop_roc]1289__2.wav,Piano,0
+[pia][jaz_blu]1301__3,[pia][jaz_blu]1301__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1301__3.wav,Piano,0
+[pia][pop_roc]1303__1,[pia][pop_roc]1303__1,IRMAS-TrainingData\pia\[pia][pop_roc]1303__1.wav,Piano,0
+055__[pia][dru][cou_fol]1420__1,055__[pia][dru][cou_fol]1420__1,IRMAS-TrainingData\pia\055__[pia][dru][cou_fol]1420__1.wav,Piano,0
+[pia][pop_roc]1376__1,[pia][pop_roc]1376__1,IRMAS-TrainingData\pia\[pia][pop_roc]1376__1.wav,Piano,0
+[pia][pop_roc]1321__1,[pia][pop_roc]1321__1,IRMAS-TrainingData\pia\[pia][pop_roc]1321__1.wav,Piano,0
+[pia][pop_roc]1295__1,[pia][pop_roc]1295__1,IRMAS-TrainingData\pia\[pia][pop_roc]1295__1.wav,Piano,0
+[pia][cla]1297__2,[pia][cla]1297__2,IRMAS-TrainingData\pia\[pia][cla]1297__2.wav,Piano,0
+[pia][jaz_blu]1517__1,[pia][jaz_blu]1517__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1517__1.wav,Piano,0
+[pia][pop_roc]1286__1,[pia][pop_roc]1286__1,IRMAS-TrainingData\pia\[pia][pop_roc]1286__1.wav,Piano,0
+[pia][jaz_blu]1467__2,[pia][jaz_blu]1467__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1467__2.wav,Piano,0
+[pia][pop_roc]1296__1,[pia][pop_roc]1296__1,IRMAS-TrainingData\pia\[pia][pop_roc]1296__1.wav,Piano,0
+[pia][jaz_blu]1507__2,[pia][jaz_blu]1507__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1507__2.wav,Piano,0
+[pia][pop_roc]1286__3,[pia][pop_roc]1286__3,IRMAS-TrainingData\pia\[pia][pop_roc]1286__3.wav,Piano,0
+029__[pia][nod][cla]1411__1,029__[pia][nod][cla]1411__1,IRMAS-TrainingData\pia\029__[pia][nod][cla]1411__1.wav,Piano,0
+112__[pia][nod][cla]1392__3,112__[pia][nod][cla]1392__3,IRMAS-TrainingData\pia\112__[pia][nod][cla]1392__3.wav,Piano,0
+[pia][jaz_blu]1531__2,[pia][jaz_blu]1531__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1531__2.wav,Piano,0
+[pia][cla]1498__2,[pia][cla]1498__2,IRMAS-TrainingData\pia\[pia][cla]1498__2.wav,Piano,0
+[pia][jaz_blu]1516__1,[pia][jaz_blu]1516__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1516__1.wav,Piano,0
+[pia][jaz_blu]1462__1,[pia][jaz_blu]1462__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1462__1.wav,Piano,0
+[pia][cla]1323__1,[pia][cla]1323__1,IRMAS-TrainingData\pia\[pia][cla]1323__1.wav,Piano,0
+029__[pia][nod][cla]1411__3,029__[pia][nod][cla]1411__3,IRMAS-TrainingData\pia\029__[pia][nod][cla]1411__3.wav,Piano,0
+[pia][jaz_blu]1516__2,[pia][jaz_blu]1516__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1516__2.wav,Piano,0
+056__[pia][nod][cla]1385__3,056__[pia][nod][cla]1385__3,IRMAS-TrainingData\pia\056__[pia][nod][cla]1385__3.wav,Piano,0
+162__[pia][dru][pop_roc]1436__2,162__[pia][dru][pop_roc]1436__2,IRMAS-TrainingData\pia\162__[pia][dru][pop_roc]1436__2.wav,Piano,0
+[pia][jaz_blu]1461__2,[pia][jaz_blu]1461__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1461__2.wav,Piano,0
+[pia][jaz_blu]1313__3,[pia][jaz_blu]1313__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1313__3.wav,Piano,0
+261__[pia][dru][jaz_blu]1427__1,261__[pia][dru][jaz_blu]1427__1,IRMAS-TrainingData\pia\261__[pia][dru][jaz_blu]1427__1.wav,Piano,0
+[pia][pop_roc]1345__1,[pia][pop_roc]1345__1,IRMAS-TrainingData\pia\[pia][pop_roc]1345__1.wav,Piano,0
+[pia][pop_roc]1445__2,[pia][pop_roc]1445__2,IRMAS-TrainingData\pia\[pia][pop_roc]1445__2.wav,Piano,0
+[pia][cla]1449__2,[pia][cla]1449__2,IRMAS-TrainingData\pia\[pia][cla]1449__2.wav,Piano,0
+[pia][pop_roc]1282__1,[pia][pop_roc]1282__1,IRMAS-TrainingData\pia\[pia][pop_roc]1282__1.wav,Piano,0
+[pia][cla]1497__3,[pia][cla]1497__3,IRMAS-TrainingData\pia\[pia][cla]1497__3.wav,Piano,0
+118__[pia][dru][jaz_blu]1429__2,118__[pia][dru][jaz_blu]1429__2,IRMAS-TrainingData\pia\118__[pia][dru][jaz_blu]1429__2.wav,Piano,0
+[pia][jaz_blu]1484__3,[pia][jaz_blu]1484__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1484__3.wav,Piano,0
+[pia][cla]1325__1,[pia][cla]1325__1,IRMAS-TrainingData\pia\[pia][cla]1325__1.wav,Piano,0
+[pia][cla]1283__1,[pia][cla]1283__1,IRMAS-TrainingData\pia\[pia][cla]1283__1.wav,Piano,0
+[pia][cla]1283__2,[pia][cla]1283__2,IRMAS-TrainingData\pia\[pia][cla]1283__2.wav,Piano,0
+[pia][jaz_blu]1531__1,[pia][jaz_blu]1531__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1531__1.wav,Piano,0
+[pia][jaz_blu]1452__3,[pia][jaz_blu]1452__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1452__3.wav,Piano,0
+[pia][pop_roc]1289__1,[pia][pop_roc]1289__1,IRMAS-TrainingData\pia\[pia][pop_roc]1289__1.wav,Piano,0
+[pia][pop_roc]1288__3,[pia][pop_roc]1288__3,IRMAS-TrainingData\pia\[pia][pop_roc]1288__3.wav,Piano,0
+108__[pia][nod][cla]1386__3,108__[pia][nod][cla]1386__3,IRMAS-TrainingData\pia\108__[pia][nod][cla]1386__3.wav,Piano,0
+[pia][cla]1369__3,[pia][cla]1369__3,IRMAS-TrainingData\pia\[pia][cla]1369__3.wav,Piano,0
+[pia][jaz_blu]1481__3,[pia][jaz_blu]1481__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1481__3.wav,Piano,0
+[pia][cla]1294__1,[pia][cla]1294__1,IRMAS-TrainingData\pia\[pia][cla]1294__1.wav,Piano,0
+220__[pia][nod][cla]1416__1,220__[pia][nod][cla]1416__1,IRMAS-TrainingData\pia\220__[pia][nod][cla]1416__1.wav,Piano,0
+[pia][jaz_blu]1314__2,[pia][jaz_blu]1314__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1314__2.wav,Piano,0
+[pia][pop_roc]1288__1,[pia][pop_roc]1288__1,IRMAS-TrainingData\pia\[pia][pop_roc]1288__1.wav,Piano,0
+[pia][jaz_blu]1509__2,[pia][jaz_blu]1509__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1509__2.wav,Piano,0
+093__[pia][dru][jaz_blu]1428__3,093__[pia][dru][jaz_blu]1428__3,IRMAS-TrainingData\pia\093__[pia][dru][jaz_blu]1428__3.wav,Piano,0
+027__[pia][nod][cla]1398__2,027__[pia][nod][cla]1398__2,IRMAS-TrainingData\pia\027__[pia][nod][cla]1398__2.wav,Piano,0
+[pia][pop_roc]1302__3,[pia][pop_roc]1302__3,IRMAS-TrainingData\pia\[pia][pop_roc]1302__3.wav,Piano,0
+[pia][pop_roc]1541__1,[pia][pop_roc]1541__1,IRMAS-TrainingData\pia\[pia][pop_roc]1541__1.wav,Piano,0
+[pia][cla]1361__1,[pia][cla]1361__1,IRMAS-TrainingData\pia\[pia][cla]1361__1.wav,Piano,0
+[pia][cla]1365__3,[pia][cla]1365__3,IRMAS-TrainingData\pia\[pia][cla]1365__3.wav,Piano,0
+[pia][pop_roc]1332__2,[pia][pop_roc]1332__2,IRMAS-TrainingData\pia\[pia][pop_roc]1332__2.wav,Piano,0
+[pia][cla]1448__2,[pia][cla]1448__2,IRMAS-TrainingData\pia\[pia][cla]1448__2.wav,Piano,0
+101__[pia][nod][cla]1399__2,101__[pia][nod][cla]1399__2,IRMAS-TrainingData\pia\101__[pia][nod][cla]1399__2.wav,Piano,0
+[pia][pop_roc]1349__3,[pia][pop_roc]1349__3,IRMAS-TrainingData\pia\[pia][pop_roc]1349__3.wav,Piano,0
+[pia][jaz_blu]1522__3,[pia][jaz_blu]1522__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1522__3.wav,Piano,0
+187__[pia][nod][cla]1404__1,187__[pia][nod][cla]1404__1,IRMAS-TrainingData\pia\187__[pia][nod][cla]1404__1.wav,Piano,0
+[pia][pop_roc]1376__3,[pia][pop_roc]1376__3,IRMAS-TrainingData\pia\[pia][pop_roc]1376__3.wav,Piano,0
+[pia][jaz_blu]1493__2,[pia][jaz_blu]1493__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1493__2.wav,Piano,0
+155__[pia][nod][cla]1415__3,155__[pia][nod][cla]1415__3,IRMAS-TrainingData\pia\155__[pia][nod][cla]1415__3.wav,Piano,0
+[pia][cla]1499__1,[pia][cla]1499__1,IRMAS-TrainingData\pia\[pia][cla]1499__1.wav,Piano,0
+204__[pia][nod][cla]1401__2,204__[pia][nod][cla]1401__2,IRMAS-TrainingData\pia\204__[pia][nod][cla]1401__2.wav,Piano,0
+[pia][jaz_blu]1353__3,[pia][jaz_blu]1353__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1353__3.wav,Piano,0
+[pia][cla]1352__3,[pia][cla]1352__3,IRMAS-TrainingData\pia\[pia][cla]1352__3.wav,Piano,0
+152__[pia][dru][pop_roc]1440__2,152__[pia][dru][pop_roc]1440__2,IRMAS-TrainingData\pia\152__[pia][dru][pop_roc]1440__2.wav,Piano,0
+104__[pia][nod][cla]1387__1,104__[pia][nod][cla]1387__1,IRMAS-TrainingData\pia\104__[pia][nod][cla]1387__1.wav,Piano,0
+[pia][jaz_blu]1521__1,[pia][jaz_blu]1521__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1521__1.wav,Piano,0
+[pia][jaz_blu]1511__3,[pia][jaz_blu]1511__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1511__3.wav,Piano,0
+[pia][pop_roc]1445__1,[pia][pop_roc]1445__1,IRMAS-TrainingData\pia\[pia][pop_roc]1445__1.wav,Piano,0
+131__[pia][nod][cla]1402__3,131__[pia][nod][cla]1402__3,IRMAS-TrainingData\pia\131__[pia][nod][cla]1402__3.wav,Piano,0
+[pia][pop_roc]1316__3,[pia][pop_roc]1316__3,IRMAS-TrainingData\pia\[pia][pop_roc]1316__3.wav,Piano,0
+[pia][jaz_blu]1478__1,[pia][jaz_blu]1478__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1478__1.wav,Piano,0
+[pia][pop_roc]1281__3,[pia][pop_roc]1281__3,IRMAS-TrainingData\pia\[pia][pop_roc]1281__3.wav,Piano,0
+[pia][pop_roc]1446__1,[pia][pop_roc]1446__1,IRMAS-TrainingData\pia\[pia][pop_roc]1446__1.wav,Piano,0
+222__[pia][nod][pop_roc]1438__1,222__[pia][nod][pop_roc]1438__1,IRMAS-TrainingData\pia\222__[pia][nod][pop_roc]1438__1.wav,Piano,0
+[pia][jaz_blu]1329__2,[pia][jaz_blu]1329__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1329__2.wav,Piano,0
+231__[pia][nod][cla]1408__3,231__[pia][nod][cla]1408__3,IRMAS-TrainingData\pia\231__[pia][nod][cla]1408__3.wav,Piano,0
+[pia][jaz_blu]1357__2,[pia][jaz_blu]1357__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1357__2.wav,Piano,0
+056__[pia][nod][cla]1385__2,056__[pia][nod][cla]1385__2,IRMAS-TrainingData\pia\056__[pia][nod][cla]1385__2.wav,Piano,0
+[pia][cla]1444__1,[pia][cla]1444__1,IRMAS-TrainingData\pia\[pia][cla]1444__1.wav,Piano,0
+[pia][cla]1374__3,[pia][cla]1374__3,IRMAS-TrainingData\pia\[pia][cla]1374__3.wav,Piano,0
+212__[pia][nod][cla]1397__1,212__[pia][nod][cla]1397__1,IRMAS-TrainingData\pia\212__[pia][nod][cla]1397__1.wav,Piano,0
+[pia][pop_roc]1282__2,[pia][pop_roc]1282__2,IRMAS-TrainingData\pia\[pia][pop_roc]1282__2.wav,Piano,0
+124__[pia][nod][jaz_blu]1426__1,124__[pia][nod][jaz_blu]1426__1,IRMAS-TrainingData\pia\124__[pia][nod][jaz_blu]1426__1.wav,Piano,0
+[pia][jaz_blu]1357__3,[pia][jaz_blu]1357__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1357__3.wav,Piano,0
+[pia][jaz_blu]1482__2,[pia][jaz_blu]1482__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1482__2.wav,Piano,0
+[pia][jaz_blu]1354__3,[pia][jaz_blu]1354__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1354__3.wav,Piano,0
+[pia][jaz_blu]1488__3,[pia][jaz_blu]1488__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1488__3.wav,Piano,0
+134__[pia][nod][cla]1405__1,134__[pia][nod][cla]1405__1,IRMAS-TrainingData\pia\134__[pia][nod][cla]1405__1.wav,Piano,0
+[pia][jaz_blu]1481__2,[pia][jaz_blu]1481__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1481__2.wav,Piano,0
+[pia][cla]1364__1,[pia][cla]1364__1,IRMAS-TrainingData\pia\[pia][cla]1364__1.wav,Piano,0
+160__[pia][nod][jaz_blu]1433__2,160__[pia][nod][jaz_blu]1433__2,IRMAS-TrainingData\pia\160__[pia][nod][jaz_blu]1433__2.wav,Piano,0
+[pia][jaz_blu]1487__2,[pia][jaz_blu]1487__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1487__2.wav,Piano,0
+[pia][jaz_blu]1467__3,[pia][jaz_blu]1467__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1467__3.wav,Piano,0
+112__[pia][nod][cla]1392__1,112__[pia][nod][cla]1392__1,IRMAS-TrainingData\pia\112__[pia][nod][cla]1392__1.wav,Piano,0
+162__[pia][dru][pop_roc]1436__3,162__[pia][dru][pop_roc]1436__3,IRMAS-TrainingData\pia\162__[pia][dru][pop_roc]1436__3.wav,Piano,0
+[pia][cla]1355__1,[pia][cla]1355__1,IRMAS-TrainingData\pia\[pia][cla]1355__1.wav,Piano,0
+[pia][jaz_blu]1532__3,[pia][jaz_blu]1532__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1532__3.wav,Piano,0
+[pia][pop_roc]1446__3,[pia][pop_roc]1446__3,IRMAS-TrainingData\pia\[pia][pop_roc]1446__3.wav,Piano,0
+[pia][cla]1447__1,[pia][cla]1447__1,IRMAS-TrainingData\pia\[pia][cla]1447__1.wav,Piano,0
+[pia][jaz_blu]1529__1,[pia][jaz_blu]1529__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1529__1.wav,Piano,0
+261__[pia][dru][jaz_blu]1427__2,261__[pia][dru][jaz_blu]1427__2,IRMAS-TrainingData\pia\261__[pia][dru][jaz_blu]1427__2.wav,Piano,0
+[pia][pop_roc]1334__1,[pia][pop_roc]1334__1,IRMAS-TrainingData\pia\[pia][pop_roc]1334__1.wav,Piano,0
+[pia][cla]1444__2,[pia][cla]1444__2,IRMAS-TrainingData\pia\[pia][cla]1444__2.wav,Piano,0
+107__[pia][nod][cla]1412__2,107__[pia][nod][cla]1412__2,IRMAS-TrainingData\pia\107__[pia][nod][cla]1412__2.wav,Piano,0
+[pia][jaz_blu]1469__1,[pia][jaz_blu]1469__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1469__1.wav,Piano,0
+[pia][jaz_blu]1463__1,[pia][jaz_blu]1463__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1463__1.wav,Piano,0
+[pia][jaz_blu]1461__1,[pia][jaz_blu]1461__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1461__1.wav,Piano,0
+[pia][pop_roc]1443__2,[pia][pop_roc]1443__2,IRMAS-TrainingData\pia\[pia][pop_roc]1443__2.wav,Piano,0
+[pia][jaz_blu]1475__3,[pia][jaz_blu]1475__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1475__3.wav,Piano,0
+[pia][cla]1346__2,[pia][cla]1346__2,IRMAS-TrainingData\pia\[pia][cla]1346__2.wav,Piano,0
+[pia][cla]1369__1,[pia][cla]1369__1,IRMAS-TrainingData\pia\[pia][cla]1369__1.wav,Piano,0
+[pia][cla]1305__2,[pia][cla]1305__2,IRMAS-TrainingData\pia\[pia][cla]1305__2.wav,Piano,0
+[pia][cla]1305__1,[pia][cla]1305__1,IRMAS-TrainingData\pia\[pia][cla]1305__1.wav,Piano,0
+[pia][cla]1453__3,[pia][cla]1453__3,IRMAS-TrainingData\pia\[pia][cla]1453__3.wav,Piano,0
+[pia][jaz_blu]1465__3,[pia][jaz_blu]1465__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1465__3.wav,Piano,0
+[pia][jaz_blu]1483__2,[pia][jaz_blu]1483__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1483__2.wav,Piano,0
+220__[pia][nod][cla]1416__3,220__[pia][nod][cla]1416__3,IRMAS-TrainingData\pia\220__[pia][nod][cla]1416__3.wav,Piano,0
+[pia][jaz_blu]1313__1,[pia][jaz_blu]1313__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1313__1.wav,Piano,0
+[pia][jaz_blu]1470__1,[pia][jaz_blu]1470__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1470__1.wav,Piano,0
+[pia][jaz_blu]1492__2,[pia][jaz_blu]1492__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1492__2.wav,Piano,0
+[pia][cla]1338__1,[pia][cla]1338__1,IRMAS-TrainingData\pia\[pia][cla]1338__1.wav,Piano,0
+[pia][jaz_blu]1340__2,[pia][jaz_blu]1340__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1340__2.wav,Piano,0
+[pia][cla]1365__2,[pia][cla]1365__2,IRMAS-TrainingData\pia\[pia][cla]1365__2.wav,Piano,0
+231__[pia][nod][cla]1408__2,231__[pia][nod][cla]1408__2,IRMAS-TrainingData\pia\231__[pia][nod][cla]1408__2.wav,Piano,0
+107__[pia][nod][cla]1412__1,107__[pia][nod][cla]1412__1,IRMAS-TrainingData\pia\107__[pia][nod][cla]1412__1.wav,Piano,0
+[pia][jaz_blu]1492__3,[pia][jaz_blu]1492__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1492__3.wav,Piano,0
+[pia][jaz_blu]1490__2,[pia][jaz_blu]1490__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1490__2.wav,Piano,0
+[pia][jaz_blu]1515__2,[pia][jaz_blu]1515__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1515__2.wav,Piano,0
+[pia][pop_roc]1310__2,[pia][pop_roc]1310__2,IRMAS-TrainingData\pia\[pia][pop_roc]1310__2.wav,Piano,0
+[pia][pop_roc]1450__2,[pia][pop_roc]1450__2,IRMAS-TrainingData\pia\[pia][pop_roc]1450__2.wav,Piano,0
+[pia][cla]1322__1,[pia][cla]1322__1,IRMAS-TrainingData\pia\[pia][cla]1322__1.wav,Piano,0
+[pia][cla]1361__3,[pia][cla]1361__3,IRMAS-TrainingData\pia\[pia][cla]1361__3.wav,Piano,0
+[pia][pop_roc]1295__2,[pia][pop_roc]1295__2,IRMAS-TrainingData\pia\[pia][pop_roc]1295__2.wav,Piano,0
+104__[pia][nod][cla]1387__2,104__[pia][nod][cla]1387__2,IRMAS-TrainingData\pia\104__[pia][nod][cla]1387__2.wav,Piano,0
+[pia][jaz_blu]1472__2,[pia][jaz_blu]1472__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1472__2.wav,Piano,0
+[pia][jaz_blu]1508__3,[pia][jaz_blu]1508__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1508__3.wav,Piano,0
+218__[pia][nod][cla]1417__2,218__[pia][nod][cla]1417__2,IRMAS-TrainingData\pia\218__[pia][nod][cla]1417__2.wav,Piano,0
+[pia][jaz_blu]1505__2,[pia][jaz_blu]1505__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1505__2.wav,Piano,0
+124__[pia][nod][jaz_blu]1426__3,124__[pia][nod][jaz_blu]1426__3,IRMAS-TrainingData\pia\124__[pia][nod][jaz_blu]1426__3.wav,Piano,0
+[pia][pop_roc]1321__3,[pia][pop_roc]1321__3,IRMAS-TrainingData\pia\[pia][pop_roc]1321__3.wav,Piano,0
+160__[pia][nod][jaz_blu]1433__3,160__[pia][nod][jaz_blu]1433__3,IRMAS-TrainingData\pia\160__[pia][nod][jaz_blu]1433__3.wav,Piano,0
+[pia][jaz_blu]1524__2,[pia][jaz_blu]1524__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1524__2.wav,Piano,0
+[pia][jaz_blu]1519__3,[pia][jaz_blu]1519__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1519__3.wav,Piano,0
+204__[pia][nod][cla]1401__1,204__[pia][nod][cla]1401__1,IRMAS-TrainingData\pia\204__[pia][nod][cla]1401__1.wav,Piano,0
+[pia][jaz_blu]1501__3,[pia][jaz_blu]1501__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1501__3.wav,Piano,0
+182__[pia][dru][cou_fol]1421__1,182__[pia][dru][cou_fol]1421__1,IRMAS-TrainingData\pia\182__[pia][dru][cou_fol]1421__1.wav,Piano,0
+144__[pia][nod][cla]1380__3,144__[pia][nod][cla]1380__3,IRMAS-TrainingData\pia\144__[pia][nod][cla]1380__3.wav,Piano,0
+[pia][jaz_blu]1301__1,[pia][jaz_blu]1301__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1301__1.wav,Piano,0
+[pia][jaz_blu]1462__3,[pia][jaz_blu]1462__3,IRMAS-TrainingData\pia\[pia][jaz_blu]1462__3.wav,Piano,0
+[pia][pop_roc]1287__3,[pia][pop_roc]1287__3,IRMAS-TrainingData\pia\[pia][pop_roc]1287__3.wav,Piano,0
+[pia][jaz_blu]1356__1,[pia][jaz_blu]1356__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1356__1.wav,Piano,0
+[pia][jaz_blu]1298__2,[pia][jaz_blu]1298__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1298__2.wav,Piano,0
+[pia][jaz_blu]1501__1,[pia][jaz_blu]1501__1,IRMAS-TrainingData\pia\[pia][jaz_blu]1501__1.wav,Piano,0
+[pia][jaz_blu]1491__2,[pia][jaz_blu]1491__2,IRMAS-TrainingData\pia\[pia][jaz_blu]1491__2.wav,Piano,0
+[gac][pop_roc]0693__2,[gac][pop_roc]0693__2,IRMAS-TrainingData\gac\[gac][pop_roc]0693__2.wav,Acoustic Guitar,1
+[gac][cla]0518__2,[gac][cla]0518__2,IRMAS-TrainingData\gac\[gac][cla]0518__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0680__2,[gac][pop_roc]0680__2,IRMAS-TrainingData\gac\[gac][pop_roc]0680__2.wav,Acoustic Guitar,1
+[gac][cla]0591__1,[gac][cla]0591__1,IRMAS-TrainingData\gac\[gac][cla]0591__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0725__3,[gac][pop_roc]0725__3,IRMAS-TrainingData\gac\[gac][pop_roc]0725__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0721__3,[gac][pop_roc]0721__3,IRMAS-TrainingData\gac\[gac][pop_roc]0721__3.wav,Acoustic Guitar,1
+[gac][cla]0582__1,[gac][cla]0582__1,IRMAS-TrainingData\gac\[gac][cla]0582__1.wav,Acoustic Guitar,1
+[gac][cla]0595__1,[gac][cla]0595__1,IRMAS-TrainingData\gac\[gac][cla]0595__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0730__1,[gac][pop_roc]0730__1,IRMAS-TrainingData\gac\[gac][pop_roc]0730__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0525__2,[gac][pop_roc]0525__2,IRMAS-TrainingData\gac\[gac][pop_roc]0525__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0703__3,[gac][pop_roc]0703__3,IRMAS-TrainingData\gac\[gac][pop_roc]0703__3.wav,Acoustic Guitar,1
+131__[gac][nod][cou_fol]0767__2,131__[gac][nod][cou_fol]0767__2,IRMAS-TrainingData\gac\131__[gac][nod][cou_fol]0767__2.wav,Acoustic Guitar,1
+082__[gac][nod][cou_fol]0670__1,082__[gac][nod][cou_fol]0670__1,IRMAS-TrainingData\gac\082__[gac][nod][cou_fol]0670__1.wav,Acoustic Guitar,1
+195__[gac][nod][cou_fol]0773__2,195__[gac][nod][cou_fol]0773__2,IRMAS-TrainingData\gac\195__[gac][nod][cou_fol]0773__2.wav,Acoustic Guitar,1
+137__[gac][nod][cou_fol]0717__1,137__[gac][nod][cou_fol]0717__1,IRMAS-TrainingData\gac\137__[gac][nod][cou_fol]0717__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0720__2,[gac][pop_roc]0720__2,IRMAS-TrainingData\gac\[gac][pop_roc]0720__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0544__2,[gac][jaz_blu]0544__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0544__2.wav,Acoustic Guitar,1
+[gac][cla]0636__3,[gac][cla]0636__3,IRMAS-TrainingData\gac\[gac][cla]0636__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0706__2,[gac][pop_roc]0706__2,IRMAS-TrainingData\gac\[gac][pop_roc]0706__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0605__2,[gac][pop_roc]0605__2,IRMAS-TrainingData\gac\[gac][pop_roc]0605__2.wav,Acoustic Guitar,1
+082__[gac][nod][cou_fol]0670__3,082__[gac][nod][cou_fol]0670__3,IRMAS-TrainingData\gac\082__[gac][nod][cou_fol]0670__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0678__3,[gac][pop_roc]0678__3,IRMAS-TrainingData\gac\[gac][pop_roc]0678__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0697__2,[gac][pop_roc]0697__2,IRMAS-TrainingData\gac\[gac][pop_roc]0697__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0593__1,[gac][jaz_blu]0593__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0593__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0607__2,[gac][jaz_blu]0607__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0607__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0654__3,[gac][pop_roc]0654__3,IRMAS-TrainingData\gac\[gac][pop_roc]0654__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0531__2,[gac][jaz_blu]0531__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0531__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0599__3,[gac][pop_roc]0599__3,IRMAS-TrainingData\gac\[gac][pop_roc]0599__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0598__3,[gac][jaz_blu]0598__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0598__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0629__3,[gac][pop_roc]0629__3,IRMAS-TrainingData\gac\[gac][pop_roc]0629__3.wav,Acoustic Guitar,1
+182__[gac][nod][cou_fol]0711__2,182__[gac][nod][cou_fol]0711__2,IRMAS-TrainingData\gac\182__[gac][nod][cou_fol]0711__2.wav,Acoustic Guitar,1
+168__[gac][dru][cou_fol]0674__1,168__[gac][dru][cou_fol]0674__1,IRMAS-TrainingData\gac\168__[gac][dru][cou_fol]0674__1.wav,Acoustic Guitar,1
+[gac][cla]0585__2,[gac][cla]0585__2,IRMAS-TrainingData\gac\[gac][cla]0585__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0621__2,[gac][pop_roc]0621__2,IRMAS-TrainingData\gac\[gac][pop_roc]0621__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0605__1,[gac][pop_roc]0605__1,IRMAS-TrainingData\gac\[gac][pop_roc]0605__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0655__1,[gac][pop_roc]0655__1,IRMAS-TrainingData\gac\[gac][pop_roc]0655__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0644__2,[gac][pop_roc]0644__2,IRMAS-TrainingData\gac\[gac][pop_roc]0644__2.wav,Acoustic Guitar,1
+[gac][cla]0634__2,[gac][cla]0634__2,IRMAS-TrainingData\gac\[gac][cla]0634__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0534__2,[gac][pop_roc]0534__2,IRMAS-TrainingData\gac\[gac][pop_roc]0534__2.wav,Acoustic Guitar,1
+[gac][cla]0563__3,[gac][cla]0563__3,IRMAS-TrainingData\gac\[gac][cla]0563__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0638__1,[gac][jaz_blu]0638__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0638__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0640__1,[gac][jaz_blu]0640__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0640__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0541__1,[gac][pop_roc]0541__1,IRMAS-TrainingData\gac\[gac][pop_roc]0541__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0589__2,[gac][pop_roc]0589__2,IRMAS-TrainingData\gac\[gac][pop_roc]0589__2.wav,Acoustic Guitar,1
+[gac][cla]0554__1,[gac][cla]0554__1,IRMAS-TrainingData\gac\[gac][cla]0554__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0564__3,[gac][pop_roc]0564__3,IRMAS-TrainingData\gac\[gac][pop_roc]0564__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0686__1,[gac][pop_roc]0686__1,IRMAS-TrainingData\gac\[gac][pop_roc]0686__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0703__1,[gac][pop_roc]0703__1,IRMAS-TrainingData\gac\[gac][pop_roc]0703__1.wav,Acoustic Guitar,1
+[gac][cla]0529__3,[gac][cla]0529__3,IRMAS-TrainingData\gac\[gac][cla]0529__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0722__1,[gac][pop_roc]0722__1,IRMAS-TrainingData\gac\[gac][pop_roc]0722__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0524__2,[gac][jaz_blu]0524__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0524__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0645__1,[gac][pop_roc]0645__1,IRMAS-TrainingData\gac\[gac][pop_roc]0645__1.wav,Acoustic Guitar,1
+[gac][cla]0551__2,[gac][cla]0551__2,IRMAS-TrainingData\gac\[gac][cla]0551__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0549__1,[gac][jaz_blu]0549__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0549__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0628__2,[gac][pop_roc]0628__2,IRMAS-TrainingData\gac\[gac][pop_roc]0628__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0532__2,[gac][jaz_blu]0532__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0532__2.wav,Acoustic Guitar,1
+[gac][cla]0562__3,[gac][cla]0562__3,IRMAS-TrainingData\gac\[gac][cla]0562__3.wav,Acoustic Guitar,1
+[gac][cla]0526__3,[gac][cla]0526__3,IRMAS-TrainingData\gac\[gac][cla]0526__3.wav,Acoustic Guitar,1
+150__[gac][nod][cou_fol]0712__3,150__[gac][nod][cou_fol]0712__3,IRMAS-TrainingData\gac\150__[gac][nod][cou_fol]0712__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0593__2,[gac][jaz_blu]0593__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0593__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0571__2,[gac][pop_roc]0571__2,IRMAS-TrainingData\gac\[gac][pop_roc]0571__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0606__1,[gac][pop_roc]0606__1,IRMAS-TrainingData\gac\[gac][pop_roc]0606__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0532__3,[gac][jaz_blu]0532__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0532__3.wav,Acoustic Guitar,1
+[gac][cla]0586__1,[gac][cla]0586__1,IRMAS-TrainingData\gac\[gac][cla]0586__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0520__1,[gac][pop_roc]0520__1,IRMAS-TrainingData\gac\[gac][pop_roc]0520__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0722__2,[gac][pop_roc]0722__2,IRMAS-TrainingData\gac\[gac][pop_roc]0722__2.wav,Acoustic Guitar,1
+[gac][cla]0615__2,[gac][cla]0615__2,IRMAS-TrainingData\gac\[gac][cla]0615__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0702__2,[gac][pop_roc]0702__2,IRMAS-TrainingData\gac\[gac][pop_roc]0702__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0679__1,[gac][pop_roc]0679__1,IRMAS-TrainingData\gac\[gac][pop_roc]0679__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0731__1,[gac][pop_roc]0731__1,IRMAS-TrainingData\gac\[gac][pop_roc]0731__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0645__2,[gac][pop_roc]0645__2,IRMAS-TrainingData\gac\[gac][pop_roc]0645__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0700__3,[gac][pop_roc]0700__3,IRMAS-TrainingData\gac\[gac][pop_roc]0700__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0626__2,[gac][jaz_blu]0626__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0626__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0728__3,[gac][pop_roc]0728__3,IRMAS-TrainingData\gac\[gac][pop_roc]0728__3.wav,Acoustic Guitar,1
+068__[gac][nod][cou_fol]0774__1,068__[gac][nod][cou_fol]0774__1,IRMAS-TrainingData\gac\068__[gac][nod][cou_fol]0774__1.wav,Acoustic Guitar,1
+218__[gac][nod][cou_fol]0768__2,218__[gac][nod][cou_fol]0768__2,IRMAS-TrainingData\gac\218__[gac][nod][cou_fol]0768__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0580__2,[gac][pop_roc]0580__2,IRMAS-TrainingData\gac\[gac][pop_roc]0580__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0681__2,[gac][pop_roc]0681__2,IRMAS-TrainingData\gac\[gac][pop_roc]0681__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0642__1,[gac][pop_roc]0642__1,IRMAS-TrainingData\gac\[gac][pop_roc]0642__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0524__1,[gac][jaz_blu]0524__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0524__1.wav,Acoustic Guitar,1
+[gac][cla]0659__2,[gac][cla]0659__2,IRMAS-TrainingData\gac\[gac][cla]0659__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0547__2,[gac][pop_roc]0547__2,IRMAS-TrainingData\gac\[gac][pop_roc]0547__2.wav,Acoustic Guitar,1
+150__[gac][nod][cou_fol]0712__1,150__[gac][nod][cou_fol]0712__1,IRMAS-TrainingData\gac\150__[gac][nod][cou_fol]0712__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0704__1,[gac][pop_roc]0704__1,IRMAS-TrainingData\gac\[gac][pop_roc]0704__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0577__1,[gac][jaz_blu]0577__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0577__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0677__3,[gac][pop_roc]0677__3,IRMAS-TrainingData\gac\[gac][pop_roc]0677__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0646__2,[gac][pop_roc]0646__2,IRMAS-TrainingData\gac\[gac][pop_roc]0646__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0583__2,[gac][jaz_blu]0583__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0583__2.wav,Acoustic Guitar,1
+045__[gac][nod][jaz_blu]0823__1,045__[gac][nod][jaz_blu]0823__1,IRMAS-TrainingData\gac\045__[gac][nod][jaz_blu]0823__1.wav,Acoustic Guitar,1
+[gac][cla]0530__2,[gac][cla]0530__2,IRMAS-TrainingData\gac\[gac][cla]0530__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0617__2,[gac][pop_roc]0617__2,IRMAS-TrainingData\gac\[gac][pop_roc]0617__2.wav,Acoustic Guitar,1
+[gac][cla]0555__2,[gac][cla]0555__2,IRMAS-TrainingData\gac\[gac][cla]0555__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0544__1,[gac][jaz_blu]0544__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0544__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0560__1,[gac][pop_roc]0560__1,IRMAS-TrainingData\gac\[gac][pop_roc]0560__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0594__3,[gac][pop_roc]0594__3,IRMAS-TrainingData\gac\[gac][pop_roc]0594__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0692__2,[gac][pop_roc]0692__2,IRMAS-TrainingData\gac\[gac][pop_roc]0692__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0731__2,[gac][pop_roc]0731__2,IRMAS-TrainingData\gac\[gac][pop_roc]0731__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0594__1,[gac][pop_roc]0594__1,IRMAS-TrainingData\gac\[gac][pop_roc]0594__1.wav,Acoustic Guitar,1
+154__[gac][nod][cou_fol]0765__1,154__[gac][nod][cou_fol]0765__1,IRMAS-TrainingData\gac\154__[gac][nod][cou_fol]0765__1.wav,Acoustic Guitar,1
+[gac][cla]0631__1,[gac][cla]0631__1,IRMAS-TrainingData\gac\[gac][cla]0631__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0557__3,[gac][pop_roc]0557__3,IRMAS-TrainingData\gac\[gac][pop_roc]0557__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0587__3,[gac][jaz_blu]0587__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0587__3.wav,Acoustic Guitar,1
+182__[gac][nod][cou_fol]0711__3,182__[gac][nod][cou_fol]0711__3,IRMAS-TrainingData\gac\182__[gac][nod][cou_fol]0711__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0576__1,[gac][pop_roc]0576__1,IRMAS-TrainingData\gac\[gac][pop_roc]0576__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0681__1,[gac][pop_roc]0681__1,IRMAS-TrainingData\gac\[gac][pop_roc]0681__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0628__3,[gac][pop_roc]0628__3,IRMAS-TrainingData\gac\[gac][pop_roc]0628__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0574__2,[gac][jaz_blu]0574__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0574__2.wav,Acoustic Guitar,1
+[gac][cla]0548__1,[gac][cla]0548__1,IRMAS-TrainingData\gac\[gac][cla]0548__1.wav,Acoustic Guitar,1
+[gac][cla]0553__2,[gac][cla]0553__2,IRMAS-TrainingData\gac\[gac][cla]0553__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0704__2,[gac][pop_roc]0704__2,IRMAS-TrainingData\gac\[gac][pop_roc]0704__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0580__3,[gac][pop_roc]0580__3,IRMAS-TrainingData\gac\[gac][pop_roc]0580__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0565__3,[gac][pop_roc]0565__3,IRMAS-TrainingData\gac\[gac][pop_roc]0565__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0534__1,[gac][pop_roc]0534__1,IRMAS-TrainingData\gac\[gac][pop_roc]0534__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0691__3,[gac][pop_roc]0691__3,IRMAS-TrainingData\gac\[gac][pop_roc]0691__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0722__3,[gac][pop_roc]0722__3,IRMAS-TrainingData\gac\[gac][pop_roc]0722__3.wav,Acoustic Guitar,1
+[gac][cla]0632__2,[gac][cla]0632__2,IRMAS-TrainingData\gac\[gac][cla]0632__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0594__2,[gac][pop_roc]0594__2,IRMAS-TrainingData\gac\[gac][pop_roc]0594__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0679__3,[gac][pop_roc]0679__3,IRMAS-TrainingData\gac\[gac][pop_roc]0679__3.wav,Acoustic Guitar,1
+131__[gac][nod][cou_fol]0767__1,131__[gac][nod][cou_fol]0767__1,IRMAS-TrainingData\gac\131__[gac][nod][cou_fol]0767__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0691__2,[gac][pop_roc]0691__2,IRMAS-TrainingData\gac\[gac][pop_roc]0691__2.wav,Acoustic Guitar,1
+122__[gac][nod][cou_fol]0715__2,122__[gac][nod][cou_fol]0715__2,IRMAS-TrainingData\gac\122__[gac][nod][cou_fol]0715__2.wav,Acoustic Guitar,1
+[gac][cla]0561__2,[gac][cla]0561__2,IRMAS-TrainingData\gac\[gac][cla]0561__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0522__1,[gac][pop_roc]0522__1,IRMAS-TrainingData\gac\[gac][pop_roc]0522__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0647__3,[gac][pop_roc]0647__3,IRMAS-TrainingData\gac\[gac][pop_roc]0647__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0630__3,[gac][pop_roc]0630__3,IRMAS-TrainingData\gac\[gac][pop_roc]0630__3.wav,Acoustic Guitar,1
+[gac][cla]0575__2,[gac][cla]0575__2,IRMAS-TrainingData\gac\[gac][cla]0575__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0607__3,[gac][jaz_blu]0607__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0607__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0627__2,[gac][pop_roc]0627__2,IRMAS-TrainingData\gac\[gac][pop_roc]0627__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0538__3,[gac][jaz_blu]0538__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0538__3.wav,Acoustic Guitar,1
+176__[gac][nod][cou_fol]0772__2,176__[gac][nod][cou_fol]0772__2,IRMAS-TrainingData\gac\176__[gac][nod][cou_fol]0772__2.wav,Acoustic Guitar,1
+[gac][cla]0588__2,[gac][cla]0588__2,IRMAS-TrainingData\gac\[gac][cla]0588__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0644__3,[gac][pop_roc]0644__3,IRMAS-TrainingData\gac\[gac][pop_roc]0644__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0613__3,[gac][jaz_blu]0613__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0613__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0701__1,[gac][pop_roc]0701__1,IRMAS-TrainingData\gac\[gac][pop_roc]0701__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0732__1,[gac][pop_roc]0732__1,IRMAS-TrainingData\gac\[gac][pop_roc]0732__1.wav,Acoustic Guitar,1
+[gac][cla]0631__3,[gac][cla]0631__3,IRMAS-TrainingData\gac\[gac][cla]0631__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0699__2,[gac][pop_roc]0699__2,IRMAS-TrainingData\gac\[gac][pop_roc]0699__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0564__2,[gac][pop_roc]0564__2,IRMAS-TrainingData\gac\[gac][pop_roc]0564__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0611__1,[gac][pop_roc]0611__1,IRMAS-TrainingData\gac\[gac][pop_roc]0611__1.wav,Acoustic Guitar,1
+[gac][cla]0575__3,[gac][cla]0575__3,IRMAS-TrainingData\gac\[gac][cla]0575__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0598__2,[gac][jaz_blu]0598__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0598__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0736__2,[gac][pop_roc]0736__2,IRMAS-TrainingData\gac\[gac][pop_roc]0736__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0536__2,[gac][jaz_blu]0536__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0536__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0604__3,[gac][pop_roc]0604__3,IRMAS-TrainingData\gac\[gac][pop_roc]0604__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0536__3,[gac][jaz_blu]0536__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0536__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0544__3,[gac][jaz_blu]0544__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0544__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0727__1,[gac][pop_roc]0727__1,IRMAS-TrainingData\gac\[gac][pop_roc]0727__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0547__3,[gac][pop_roc]0547__3,IRMAS-TrainingData\gac\[gac][pop_roc]0547__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0695__2,[gac][pop_roc]0695__2,IRMAS-TrainingData\gac\[gac][pop_roc]0695__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0655__3,[gac][pop_roc]0655__3,IRMAS-TrainingData\gac\[gac][pop_roc]0655__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0523__1,[gac][jaz_blu]0523__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0523__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0601__2,[gac][pop_roc]0601__2,IRMAS-TrainingData\gac\[gac][pop_roc]0601__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0694__1,[gac][pop_roc]0694__1,IRMAS-TrainingData\gac\[gac][pop_roc]0694__1.wav,Acoustic Guitar,1
+[gac][cla]0609__2,[gac][cla]0609__2,IRMAS-TrainingData\gac\[gac][cla]0609__2.wav,Acoustic Guitar,1
+[gac][cla]0590__1,[gac][cla]0590__1,IRMAS-TrainingData\gac\[gac][cla]0590__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0525__1,[gac][pop_roc]0525__1,IRMAS-TrainingData\gac\[gac][pop_roc]0525__1.wav,Acoustic Guitar,1
+158__[gac][nod][cou_fol]0766__2,158__[gac][nod][cou_fol]0766__2,IRMAS-TrainingData\gac\158__[gac][nod][cou_fol]0766__2.wav,Acoustic Guitar,1
+[gac][cla]0636__1,[gac][cla]0636__1,IRMAS-TrainingData\gac\[gac][cla]0636__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0593__3,[gac][jaz_blu]0593__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0593__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0734__2,[gac][pop_roc]0734__2,IRMAS-TrainingData\gac\[gac][pop_roc]0734__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0589__1,[gac][pop_roc]0589__1,IRMAS-TrainingData\gac\[gac][pop_roc]0589__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0705__2,[gac][pop_roc]0705__2,IRMAS-TrainingData\gac\[gac][pop_roc]0705__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0690__1,[gac][pop_roc]0690__1,IRMAS-TrainingData\gac\[gac][pop_roc]0690__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0620__1,[gac][pop_roc]0620__1,IRMAS-TrainingData\gac\[gac][pop_roc]0620__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0537__3,[gac][pop_roc]0537__3,IRMAS-TrainingData\gac\[gac][pop_roc]0537__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0638__3,[gac][jaz_blu]0638__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0638__3.wav,Acoustic Guitar,1
+046__[gac][dru][cou_fol]0709__3,046__[gac][dru][cou_fol]0709__3,IRMAS-TrainingData\gac\046__[gac][dru][cou_fol]0709__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0603__1,[gac][jaz_blu]0603__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0603__1.wav,Acoustic Guitar,1
+[gac][cla]0667__3,[gac][cla]0667__3,IRMAS-TrainingData\gac\[gac][cla]0667__3.wav,Acoustic Guitar,1
+[gac][cla]0554__3,[gac][cla]0554__3,IRMAS-TrainingData\gac\[gac][cla]0554__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0702__1,[gac][pop_roc]0702__1,IRMAS-TrainingData\gac\[gac][pop_roc]0702__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0578__3,[gac][pop_roc]0578__3,IRMAS-TrainingData\gac\[gac][pop_roc]0578__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0576__3,[gac][pop_roc]0576__3,IRMAS-TrainingData\gac\[gac][pop_roc]0576__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0728__1,[gac][pop_roc]0728__1,IRMAS-TrainingData\gac\[gac][pop_roc]0728__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0689__2,[gac][pop_roc]0689__2,IRMAS-TrainingData\gac\[gac][pop_roc]0689__2.wav,Acoustic Guitar,1
+[gac][cla]0540__2,[gac][cla]0540__2,IRMAS-TrainingData\gac\[gac][cla]0540__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0557__1,[gac][pop_roc]0557__1,IRMAS-TrainingData\gac\[gac][pop_roc]0557__1.wav,Acoustic Guitar,1
+080__[gac][dru][cou_fol]0672__1,080__[gac][dru][cou_fol]0672__1,IRMAS-TrainingData\gac\080__[gac][dru][cou_fol]0672__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0700__1,[gac][pop_roc]0700__1,IRMAS-TrainingData\gac\[gac][pop_roc]0700__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0523__3,[gac][jaz_blu]0523__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0523__3.wav,Acoustic Guitar,1
+200__[gac][nod][cou_fol]0714__3,200__[gac][nod][cou_fol]0714__3,IRMAS-TrainingData\gac\200__[gac][nod][cou_fol]0714__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0543__2,[gac][jaz_blu]0543__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0543__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0643__1,[gac][pop_roc]0643__1,IRMAS-TrainingData\gac\[gac][pop_roc]0643__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0723__3,[gac][pop_roc]0723__3,IRMAS-TrainingData\gac\[gac][pop_roc]0723__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0637__1,[gac][jaz_blu]0637__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0637__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0576__2,[gac][pop_roc]0576__2,IRMAS-TrainingData\gac\[gac][pop_roc]0576__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0606__3,[gac][pop_roc]0606__3,IRMAS-TrainingData\gac\[gac][pop_roc]0606__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0701__2,[gac][pop_roc]0701__2,IRMAS-TrainingData\gac\[gac][pop_roc]0701__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0689__1,[gac][pop_roc]0689__1,IRMAS-TrainingData\gac\[gac][pop_roc]0689__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0602__2,[gac][pop_roc]0602__2,IRMAS-TrainingData\gac\[gac][pop_roc]0602__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0723__1,[gac][pop_roc]0723__1,IRMAS-TrainingData\gac\[gac][pop_roc]0723__1.wav,Acoustic Guitar,1
+[gac][cla]0551__1,[gac][cla]0551__1,IRMAS-TrainingData\gac\[gac][cla]0551__1.wav,Acoustic Guitar,1
+051__[gac][dru][pop_roc]0624__3,051__[gac][dru][pop_roc]0624__3,IRMAS-TrainingData\gac\051__[gac][dru][pop_roc]0624__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0587__1,[gac][jaz_blu]0587__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0587__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0546__2,[gac][pop_roc]0546__2,IRMAS-TrainingData\gac\[gac][pop_roc]0546__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0646__1,[gac][pop_roc]0646__1,IRMAS-TrainingData\gac\[gac][pop_roc]0646__1.wav,Acoustic Guitar,1
+[gac][cla]0526__1,[gac][cla]0526__1,IRMAS-TrainingData\gac\[gac][cla]0526__1.wav,Acoustic Guitar,1
+045__[gac][nod][jaz_blu]0823__2,045__[gac][nod][jaz_blu]0823__2,IRMAS-TrainingData\gac\045__[gac][nod][jaz_blu]0823__2.wav,Acoustic Guitar,1
+[gac][cla]0662__1,[gac][cla]0662__1,IRMAS-TrainingData\gac\[gac][cla]0662__1.wav,Acoustic Guitar,1
+[gac][cla]0585__1,[gac][cla]0585__1,IRMAS-TrainingData\gac\[gac][cla]0585__1.wav,Acoustic Guitar,1
+[gac][cla]0636__2,[gac][cla]0636__2,IRMAS-TrainingData\gac\[gac][cla]0636__2.wav,Acoustic Guitar,1
+187__[gac][nod][pop_roc]0623__2,187__[gac][nod][pop_roc]0623__2,IRMAS-TrainingData\gac\187__[gac][nod][pop_roc]0623__2.wav,Acoustic Guitar,1
+[gac][cla]0635__2,[gac][cla]0635__2,IRMAS-TrainingData\gac\[gac][cla]0635__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0734__3,[gac][pop_roc]0734__3,IRMAS-TrainingData\gac\[gac][pop_roc]0734__3.wav,Acoustic Guitar,1
+[gac][cla]0528__2,[gac][cla]0528__2,IRMAS-TrainingData\gac\[gac][cla]0528__2.wav,Acoustic Guitar,1
+[gac][cla]0635__1,[gac][cla]0635__1,IRMAS-TrainingData\gac\[gac][cla]0635__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0535__2,[gac][jaz_blu]0535__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0535__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0622__1,[gac][pop_roc]0622__1,IRMAS-TrainingData\gac\[gac][pop_roc]0622__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0677__1,[gac][pop_roc]0677__1,IRMAS-TrainingData\gac\[gac][pop_roc]0677__1.wav,Acoustic Guitar,1
+[gac][cla]0667__2,[gac][cla]0667__2,IRMAS-TrainingData\gac\[gac][cla]0667__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0560__3,[gac][pop_roc]0560__3,IRMAS-TrainingData\gac\[gac][pop_roc]0560__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0558__1,[gac][pop_roc]0558__1,IRMAS-TrainingData\gac\[gac][pop_roc]0558__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0729__1,[gac][pop_roc]0729__1,IRMAS-TrainingData\gac\[gac][pop_roc]0729__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0696__2,[gac][pop_roc]0696__2,IRMAS-TrainingData\gac\[gac][pop_roc]0696__2.wav,Acoustic Guitar,1
+176__[gac][nod][cou_fol]0772__1,176__[gac][nod][cou_fol]0772__1,IRMAS-TrainingData\gac\176__[gac][nod][cou_fol]0772__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0539__2,[gac][jaz_blu]0539__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0539__2.wav,Acoustic Guitar,1
+[gac][cla]0529__1,[gac][cla]0529__1,IRMAS-TrainingData\gac\[gac][cla]0529__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0574__3,[gac][jaz_blu]0574__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0574__3.wav,Acoustic Guitar,1
+[gac][cla]0588__1,[gac][cla]0588__1,IRMAS-TrainingData\gac\[gac][cla]0588__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0521__2,[gac][pop_roc]0521__2,IRMAS-TrainingData\gac\[gac][pop_roc]0521__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0523__2,[gac][jaz_blu]0523__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0523__2.wav,Acoustic Guitar,1
+[gac][jaz_blu]0543__3,[gac][jaz_blu]0543__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0543__3.wav,Acoustic Guitar,1
+[gac][cla]0610__3,[gac][cla]0610__3,IRMAS-TrainingData\gac\[gac][cla]0610__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0616__1,[gac][pop_roc]0616__1,IRMAS-TrainingData\gac\[gac][pop_roc]0616__1.wav,Acoustic Guitar,1
+202__[gac][dru][cou_fol]0673__1,202__[gac][dru][cou_fol]0673__1,IRMAS-TrainingData\gac\202__[gac][dru][cou_fol]0673__1.wav,Acoustic Guitar,1
+[gac][cla]0665__2,[gac][cla]0665__2,IRMAS-TrainingData\gac\[gac][cla]0665__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0652__3,[gac][pop_roc]0652__3,IRMAS-TrainingData\gac\[gac][pop_roc]0652__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0734__1,[gac][pop_roc]0734__1,IRMAS-TrainingData\gac\[gac][pop_roc]0734__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0566__1,[gac][jaz_blu]0566__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0566__1.wav,Acoustic Guitar,1
+[gac][cla]0600__1,[gac][cla]0600__1,IRMAS-TrainingData\gac\[gac][cla]0600__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0525__3,[gac][pop_roc]0525__3,IRMAS-TrainingData\gac\[gac][pop_roc]0525__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0688__2,[gac][pop_roc]0688__2,IRMAS-TrainingData\gac\[gac][pop_roc]0688__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0622__3,[gac][pop_roc]0622__3,IRMAS-TrainingData\gac\[gac][pop_roc]0622__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0643__3,[gac][pop_roc]0643__3,IRMAS-TrainingData\gac\[gac][pop_roc]0643__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0641__1,[gac][jaz_blu]0641__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0641__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0545__1,[gac][pop_roc]0545__1,IRMAS-TrainingData\gac\[gac][pop_roc]0545__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0682__1,[gac][pop_roc]0682__1,IRMAS-TrainingData\gac\[gac][pop_roc]0682__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0613__2,[gac][jaz_blu]0613__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0613__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0707__1,[gac][pop_roc]0707__1,IRMAS-TrainingData\gac\[gac][pop_roc]0707__1.wav,Acoustic Guitar,1
+[gac][cla]0526__2,[gac][cla]0526__2,IRMAS-TrainingData\gac\[gac][cla]0526__2.wav,Acoustic Guitar,1
+[gac][cla]0551__3,[gac][cla]0551__3,IRMAS-TrainingData\gac\[gac][cla]0551__3.wav,Acoustic Guitar,1
+[gac][cla]0562__1,[gac][cla]0562__1,IRMAS-TrainingData\gac\[gac][cla]0562__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0574__1,[gac][jaz_blu]0574__1,IRMAS-TrainingData\gac\[gac][jaz_blu]0574__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0679__2,[gac][pop_roc]0679__2,IRMAS-TrainingData\gac\[gac][pop_roc]0679__2.wav,Acoustic Guitar,1
+[gac][cla]0540__1,[gac][cla]0540__1,IRMAS-TrainingData\gac\[gac][cla]0540__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0703__2,[gac][pop_roc]0703__2,IRMAS-TrainingData\gac\[gac][pop_roc]0703__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0684__2,[gac][pop_roc]0684__2,IRMAS-TrainingData\gac\[gac][pop_roc]0684__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0547__1,[gac][pop_roc]0547__1,IRMAS-TrainingData\gac\[gac][pop_roc]0547__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0620__2,[gac][pop_roc]0620__2,IRMAS-TrainingData\gac\[gac][pop_roc]0620__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0611__3,[gac][pop_roc]0611__3,IRMAS-TrainingData\gac\[gac][pop_roc]0611__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0570__1,[gac][pop_roc]0570__1,IRMAS-TrainingData\gac\[gac][pop_roc]0570__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0652__2,[gac][pop_roc]0652__2,IRMAS-TrainingData\gac\[gac][pop_roc]0652__2.wav,Acoustic Guitar,1
+[gac][cla]0585__3,[gac][cla]0585__3,IRMAS-TrainingData\gac\[gac][cla]0585__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0699__1,[gac][pop_roc]0699__1,IRMAS-TrainingData\gac\[gac][pop_roc]0699__1.wav,Acoustic Guitar,1
+[gac][cla]0596__1,[gac][cla]0596__1,IRMAS-TrainingData\gac\[gac][cla]0596__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0687__2,[gac][pop_roc]0687__2,IRMAS-TrainingData\gac\[gac][pop_roc]0687__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0584__1,[gac][pop_roc]0584__1,IRMAS-TrainingData\gac\[gac][pop_roc]0584__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0680__3,[gac][pop_roc]0680__3,IRMAS-TrainingData\gac\[gac][pop_roc]0680__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0570__2,[gac][pop_roc]0570__2,IRMAS-TrainingData\gac\[gac][pop_roc]0570__2.wav,Acoustic Guitar,1
+168__[gac][dru][cou_fol]0674__2,168__[gac][dru][cou_fol]0674__2,IRMAS-TrainingData\gac\168__[gac][dru][cou_fol]0674__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0618__1,[gac][pop_roc]0618__1,IRMAS-TrainingData\gac\[gac][pop_roc]0618__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0584__3,[gac][pop_roc]0584__3,IRMAS-TrainingData\gac\[gac][pop_roc]0584__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0559__3,[gac][jaz_blu]0559__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0559__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0621__1,[gac][pop_roc]0621__1,IRMAS-TrainingData\gac\[gac][pop_roc]0621__1.wav,Acoustic Guitar,1
+[gac][cla]0632__1,[gac][cla]0632__1,IRMAS-TrainingData\gac\[gac][cla]0632__1.wav,Acoustic Guitar,1
+[gac][cla]0595__2,[gac][cla]0595__2,IRMAS-TrainingData\gac\[gac][cla]0595__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0736__1,[gac][pop_roc]0736__1,IRMAS-TrainingData\gac\[gac][pop_roc]0736__1.wav,Acoustic Guitar,1
+[gac][cla]0572__1,[gac][cla]0572__1,IRMAS-TrainingData\gac\[gac][cla]0572__1.wav,Acoustic Guitar,1
+054__[gac][dru][cou_fol]0763__2,054__[gac][dru][cou_fol]0763__2,IRMAS-TrainingData\gac\054__[gac][dru][cou_fol]0763__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0657__2,[gac][pop_roc]0657__2,IRMAS-TrainingData\gac\[gac][pop_roc]0657__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0550__3,[gac][pop_roc]0550__3,IRMAS-TrainingData\gac\[gac][pop_roc]0550__3.wav,Acoustic Guitar,1
+122__[gac][nod][cou_fol]0715__3,122__[gac][nod][cou_fol]0715__3,IRMAS-TrainingData\gac\122__[gac][nod][cou_fol]0715__3.wav,Acoustic Guitar,1
+[gac][cla]0595__3,[gac][cla]0595__3,IRMAS-TrainingData\gac\[gac][cla]0595__3.wav,Acoustic Guitar,1
+[gac][cla]0662__2,[gac][cla]0662__2,IRMAS-TrainingData\gac\[gac][cla]0662__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0630__2,[gac][pop_roc]0630__2,IRMAS-TrainingData\gac\[gac][pop_roc]0630__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0686__2,[gac][pop_roc]0686__2,IRMAS-TrainingData\gac\[gac][pop_roc]0686__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0567__1,[gac][pop_roc]0567__1,IRMAS-TrainingData\gac\[gac][pop_roc]0567__1.wav,Acoustic Guitar,1
+[gac][cla]0530__1,[gac][cla]0530__1,IRMAS-TrainingData\gac\[gac][cla]0530__1.wav,Acoustic Guitar,1
+[gac][cla]0528__1,[gac][cla]0528__1,IRMAS-TrainingData\gac\[gac][cla]0528__1.wav,Acoustic Guitar,1
+[gac][jaz_blu]0549__3,[gac][jaz_blu]0549__3,IRMAS-TrainingData\gac\[gac][jaz_blu]0549__3.wav,Acoustic Guitar,1
+[gac][cla]0555__3,[gac][cla]0555__3,IRMAS-TrainingData\gac\[gac][cla]0555__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0602__1,[gac][pop_roc]0602__1,IRMAS-TrainingData\gac\[gac][pop_roc]0602__1.wav,Acoustic Guitar,1
+[gac][cla]0561__1,[gac][cla]0561__1,IRMAS-TrainingData\gac\[gac][cla]0561__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0604__1,[gac][pop_roc]0604__1,IRMAS-TrainingData\gac\[gac][pop_roc]0604__1.wav,Acoustic Guitar,1
+158__[gac][nod][cou_fol]0766__1,158__[gac][nod][cou_fol]0766__1,IRMAS-TrainingData\gac\158__[gac][nod][cou_fol]0766__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0657__3,[gac][pop_roc]0657__3,IRMAS-TrainingData\gac\[gac][pop_roc]0657__3.wav,Acoustic Guitar,1
+[gac][jaz_blu]0597__2,[gac][jaz_blu]0597__2,IRMAS-TrainingData\gac\[gac][jaz_blu]0597__2.wav,Acoustic Guitar,1
+[gac][cla]0548__2,[gac][cla]0548__2,IRMAS-TrainingData\gac\[gac][cla]0548__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0618__3,[gac][pop_roc]0618__3,IRMAS-TrainingData\gac\[gac][pop_roc]0618__3.wav,Acoustic Guitar,1
+068__[gac][nod][cou_fol]0774__3,068__[gac][nod][cou_fol]0774__3,IRMAS-TrainingData\gac\068__[gac][nod][cou_fol]0774__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0522__2,[gac][pop_roc]0522__2,IRMAS-TrainingData\gac\[gac][pop_roc]0522__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0730__2,[gac][pop_roc]0730__2,IRMAS-TrainingData\gac\[gac][pop_roc]0730__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0571__1,[gac][pop_roc]0571__1,IRMAS-TrainingData\gac\[gac][pop_roc]0571__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0707__2,[gac][pop_roc]0707__2,IRMAS-TrainingData\gac\[gac][pop_roc]0707__2.wav,Acoustic Guitar,1
+[gac][cla]0542__2,[gac][cla]0542__2,IRMAS-TrainingData\gac\[gac][cla]0542__2.wav,Acoustic Guitar,1
+[gac][pop_roc]0628__1,[gac][pop_roc]0628__1,IRMAS-TrainingData\gac\[gac][pop_roc]0628__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0695__3,[gac][pop_roc]0695__3,IRMAS-TrainingData\gac\[gac][pop_roc]0695__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0614__1,[gac][pop_roc]0614__1,IRMAS-TrainingData\gac\[gac][pop_roc]0614__1.wav,Acoustic Guitar,1
+[gac][pop_roc]0646__3,[gac][pop_roc]0646__3,IRMAS-TrainingData\gac\[gac][pop_roc]0646__3.wav,Acoustic Guitar,1
+[gac][pop_roc]0605__3,[gac][pop_roc]0605__3,IRMAS-TrainingData\gac\[gac][pop_roc]0605__3.wav,Acoustic Guitar,1
+115__[vio][nod][cla]2150__2,115__[vio][nod][cla]2150__2,IRMAS-TrainingData\vio\115__[vio][nod][cla]2150__2.wav,Violin,2
+137__[vio][nod][cou_fol]2190__1,137__[vio][nod][cou_fol]2190__1,IRMAS-TrainingData\vio\137__[vio][nod][cou_fol]2190__1.wav,Violin,2
+007__[vio][nod][cla]2103__3,007__[vio][nod][cla]2103__3,IRMAS-TrainingData\vio\007__[vio][nod][cla]2103__3.wav,Violin,2
+[vio][pop_roc]2253__1,[vio][pop_roc]2253__1,IRMAS-TrainingData\vio\[vio][pop_roc]2253__1.wav,Violin,2
+171__[vio][nod][cou_fol]2195__1,171__[vio][nod][cou_fol]2195__1,IRMAS-TrainingData\vio\171__[vio][nod][cou_fol]2195__1.wav,Violin,2
+[vio][jaz_blu]2240__1,[vio][jaz_blu]2240__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2240__1.wav,Violin,2
+[vio][pop_roc]2128__3,[vio][pop_roc]2128__3,IRMAS-TrainingData\vio\[vio][pop_roc]2128__3.wav,Violin,2
+[vio][pop_roc]2129__1,[vio][pop_roc]2129__1,IRMAS-TrainingData\vio\[vio][pop_roc]2129__1.wav,Violin,2
+[vio][cla]2210__2,[vio][cla]2210__2,IRMAS-TrainingData\vio\[vio][cla]2210__2.wav,Violin,2
+[vio][jaz_blu]2084__1,[vio][jaz_blu]2084__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2084__1.wav,Violin,2
+[vio][jaz_blu]2106__2,[vio][jaz_blu]2106__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2106__2.wav,Violin,2
+[vio][cla]2283__2,[vio][cla]2283__2,IRMAS-TrainingData\vio\[vio][cla]2283__2.wav,Violin,2
+082__[vio][nod][cla]2165__2,082__[vio][nod][cla]2165__2,IRMAS-TrainingData\vio\082__[vio][nod][cla]2165__2.wav,Violin,2
+105__[vio][nod][cla]2170__3,105__[vio][nod][cla]2170__3,IRMAS-TrainingData\vio\105__[vio][nod][cla]2170__3.wav,Violin,2
+[vio][cla]2223__3,[vio][cla]2223__3,IRMAS-TrainingData\vio\[vio][cla]2223__3.wav,Violin,2
+[vio][pop_roc]2247__3,[vio][pop_roc]2247__3,IRMAS-TrainingData\vio\[vio][pop_roc]2247__3.wav,Violin,2
+044__[vio][nod][cla]2186__3,044__[vio][nod][cla]2186__3,IRMAS-TrainingData\vio\044__[vio][nod][cla]2186__3.wav,Violin,2
+[vio][cla]2095__1,[vio][cla]2095__1,IRMAS-TrainingData\vio\[vio][cla]2095__1.wav,Violin,2
+[vio][jaz_blu]2261__3,[vio][jaz_blu]2261__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2261__3.wav,Violin,2
+[vio][cla]2095__2,[vio][cla]2095__2,IRMAS-TrainingData\vio\[vio][cla]2095__2.wav,Violin,2
+044__[vio][nod][cla]2186__2,044__[vio][nod][cla]2186__2,IRMAS-TrainingData\vio\044__[vio][nod][cla]2186__2.wav,Violin,2
+[vio][jaz_blu]2236__3,[vio][jaz_blu]2236__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2236__3.wav,Violin,2
+[vio][pop_roc]2143__2,[vio][pop_roc]2143__2,IRMAS-TrainingData\vio\[vio][pop_roc]2143__2.wav,Violin,2
+[vio][cla]2111__3,[vio][cla]2111__3,IRMAS-TrainingData\vio\[vio][cla]2111__3.wav,Violin,2
+[vio][jaz_blu]2084__3,[vio][jaz_blu]2084__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2084__3.wav,Violin,2
+[vio][pop_roc]2275__3,[vio][pop_roc]2275__3,IRMAS-TrainingData\vio\[vio][pop_roc]2275__3.wav,Violin,2
+012__[vio][nod][cla]2163__1,012__[vio][nod][cla]2163__1,IRMAS-TrainingData\vio\012__[vio][nod][cla]2163__1.wav,Violin,2
+[vio][jaz_blu]2090__3,[vio][jaz_blu]2090__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2090__3.wav,Violin,2
+120__[vio][nod][cla]2181__3,120__[vio][nod][cla]2181__3,IRMAS-TrainingData\vio\120__[vio][nod][cla]2181__3.wav,Violin,2
+[vio][jaz_blu]2116__2,[vio][jaz_blu]2116__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2116__2.wav,Violin,2
+[vio][cla]2283__1,[vio][cla]2283__1,IRMAS-TrainingData\vio\[vio][cla]2283__1.wav,Violin,2
+[vio][pop_roc]2115__2,[vio][pop_roc]2115__2,IRMAS-TrainingData\vio\[vio][pop_roc]2115__2.wav,Violin,2
+[vio][pop_roc]2243__1,[vio][pop_roc]2243__1,IRMAS-TrainingData\vio\[vio][pop_roc]2243__1.wav,Violin,2
+[vio][pop_roc]2141__3,[vio][pop_roc]2141__3,IRMAS-TrainingData\vio\[vio][pop_roc]2141__3.wav,Violin,2
+135__[vio][nod][cou_fol]2199__1,135__[vio][nod][cou_fol]2199__1,IRMAS-TrainingData\vio\135__[vio][nod][cou_fol]2199__1.wav,Violin,2
+[vio][pop_roc]2146__2,[vio][pop_roc]2146__2,IRMAS-TrainingData\vio\[vio][pop_roc]2146__2.wav,Violin,2
+[vio][pop_roc]2126__1,[vio][pop_roc]2126__1,IRMAS-TrainingData\vio\[vio][pop_roc]2126__1.wav,Violin,2
+[vio][cla]2272__3,[vio][cla]2272__3,IRMAS-TrainingData\vio\[vio][cla]2272__3.wav,Violin,2
+[vio][cla]2135__1,[vio][cla]2135__1,IRMAS-TrainingData\vio\[vio][cla]2135__1.wav,Violin,2
+122__[vio][nod][cla]2176__3,122__[vio][nod][cla]2176__3,IRMAS-TrainingData\vio\122__[vio][nod][cla]2176__3.wav,Violin,2
+[vio][jaz_blu]2109__3,[vio][jaz_blu]2109__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2109__3.wav,Violin,2
+174__[vio][nod][cla]2157__3,174__[vio][nod][cla]2157__3,IRMAS-TrainingData\vio\174__[vio][nod][cla]2157__3.wav,Violin,2
+[vio][pop_roc]2118__3,[vio][pop_roc]2118__3,IRMAS-TrainingData\vio\[vio][pop_roc]2118__3.wav,Violin,2
+[vio][cla]2264__2,[vio][cla]2264__2,IRMAS-TrainingData\vio\[vio][cla]2264__2.wav,Violin,2
+[vio][pop_roc]2250__3,[vio][pop_roc]2250__3,IRMAS-TrainingData\vio\[vio][pop_roc]2250__3.wav,Violin,2
+013__[vio][nod][cla]2162__3,013__[vio][nod][cla]2162__3,IRMAS-TrainingData\vio\013__[vio][nod][cla]2162__3.wav,Violin,2
+[vio][jaz_blu]2117__1,[vio][jaz_blu]2117__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2117__1.wav,Violin,2
+[vio][jaz_blu]2089__3,[vio][jaz_blu]2089__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2089__3.wav,Violin,2
+[vio][pop_roc]2245__3,[vio][pop_roc]2245__3,IRMAS-TrainingData\vio\[vio][pop_roc]2245__3.wav,Violin,2
+[vio][pop_roc]2252__3,[vio][pop_roc]2252__3,IRMAS-TrainingData\vio\[vio][pop_roc]2252__3.wav,Violin,2
+[vio][jaz_blu]2239__3,[vio][jaz_blu]2239__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2239__3.wav,Violin,2
+[vio][jaz_blu]2281__1,[vio][jaz_blu]2281__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2281__1.wav,Violin,2
+[vio][pop_roc]2206__1,[vio][pop_roc]2206__1,IRMAS-TrainingData\vio\[vio][pop_roc]2206__1.wav,Violin,2
+[vio][jaz_blu]2108__3,[vio][jaz_blu]2108__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2108__3.wav,Violin,2
+104__[vio][nod][cla]2158__3,104__[vio][nod][cla]2158__3,IRMAS-TrainingData\vio\104__[vio][nod][cla]2158__3.wav,Violin,2
+[vio][jaz_blu]2238__1,[vio][jaz_blu]2238__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2238__1.wav,Violin,2
+110__[vio][nod][cla]2210__3,110__[vio][nod][cla]2210__3,IRMAS-TrainingData\vio\110__[vio][nod][cla]2210__3.wav,Violin,2
+[vio][cla]2111__2,[vio][cla]2111__2,IRMAS-TrainingData\vio\[vio][cla]2111__2.wav,Violin,2
+140__[vio][nod][cla]2169__1,140__[vio][nod][cla]2169__1,IRMAS-TrainingData\vio\140__[vio][nod][cla]2169__1.wav,Violin,2
+[vio][pop_roc]2274__2,[vio][pop_roc]2274__2,IRMAS-TrainingData\vio\[vio][pop_roc]2274__2.wav,Violin,2
+[vio][jaz_blu]2107__2,[vio][jaz_blu]2107__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2107__2.wav,Violin,2
+[vio][cla]2260__2,[vio][cla]2260__2,IRMAS-TrainingData\vio\[vio][cla]2260__2.wav,Violin,2
+009__[vio][nod][cla]2178__1,009__[vio][nod][cla]2178__1,IRMAS-TrainingData\vio\009__[vio][nod][cla]2178__1.wav,Violin,2
+[vio][cla]2265__3,[vio][cla]2265__3,IRMAS-TrainingData\vio\[vio][cla]2265__3.wav,Violin,2
+[vio][jaz_blu]2232__1,[vio][jaz_blu]2232__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2232__1.wav,Violin,2
+[vio][cla]2255__2,[vio][cla]2255__2,IRMAS-TrainingData\vio\[vio][cla]2255__2.wav,Violin,2
+[vio][pop_roc]2101__3,[vio][pop_roc]2101__3,IRMAS-TrainingData\vio\[vio][pop_roc]2101__3.wav,Violin,2
+[vio][cla]2270__3,[vio][cla]2270__3,IRMAS-TrainingData\vio\[vio][cla]2270__3.wav,Violin,2
+[vio][jaz_blu]2109__2,[vio][jaz_blu]2109__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2109__2.wav,Violin,2
+153__[vio][nod][cla]2152__3,153__[vio][nod][cla]2152__3,IRMAS-TrainingData\vio\153__[vio][nod][cla]2152__3.wav,Violin,2
+[vio][jaz_blu]2086__2,[vio][jaz_blu]2086__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2086__2.wav,Violin,2
+[vio][jaz_blu]2137__3,[vio][jaz_blu]2137__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2137__3.wav,Violin,2
+[vio][cla]2283__3,[vio][cla]2283__3,IRMAS-TrainingData\vio\[vio][cla]2283__3.wav,Violin,2
+[vio][pop_roc]2276__1,[vio][pop_roc]2276__1,IRMAS-TrainingData\vio\[vio][pop_roc]2276__1.wav,Violin,2
+133__[vio][nod][cla]2168__3,133__[vio][nod][cla]2168__3,IRMAS-TrainingData\vio\133__[vio][nod][cla]2168__3.wav,Violin,2
+[vio][jaz_blu]2108__2,[vio][jaz_blu]2108__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2108__2.wav,Violin,2
+[vio][cla]2102__3,[vio][cla]2102__3,IRMAS-TrainingData\vio\[vio][cla]2102__3.wav,Violin,2
+[vio][jaz_blu]2125__1,[vio][jaz_blu]2125__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2125__1.wav,Violin,2
+125__[vio][nod][cla]2151__2,125__[vio][nod][cla]2151__2,IRMAS-TrainingData\vio\125__[vio][nod][cla]2151__2.wav,Violin,2
+040__[vio][nod][cla]2182__2,040__[vio][nod][cla]2182__2,IRMAS-TrainingData\vio\040__[vio][nod][cla]2182__2.wav,Violin,2
+[vio][jaz_blu]2113__3,[vio][jaz_blu]2113__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2113__3.wav,Violin,2
+[vio][pop_roc]2254__2,[vio][pop_roc]2254__2,IRMAS-TrainingData\vio\[vio][pop_roc]2254__2.wav,Violin,2
+[vio][cla]2225__1,[vio][cla]2225__1,IRMAS-TrainingData\vio\[vio][cla]2225__1.wav,Violin,2
+155__[vio][nod][cla]2171__3,155__[vio][nod][cla]2171__3,IRMAS-TrainingData\vio\155__[vio][nod][cla]2171__3.wav,Violin,2
+100__[vio][nod][cla]2183__2,100__[vio][nod][cla]2183__2,IRMAS-TrainingData\vio\100__[vio][nod][cla]2183__2.wav,Violin,2
+[vio][cla]2211__2,[vio][cla]2211__2,IRMAS-TrainingData\vio\[vio][cla]2211__2.wav,Violin,2
+[vio][jaz_blu]2124__1,[vio][jaz_blu]2124__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2124__1.wav,Violin,2
+[vio][cla]2262__2,[vio][cla]2262__2,IRMAS-TrainingData\vio\[vio][cla]2262__2.wav,Violin,2
+[vio][pop_roc]2120__3,[vio][pop_roc]2120__3,IRMAS-TrainingData\vio\[vio][pop_roc]2120__3.wav,Violin,2
+[vio][pop_roc]2105__1,[vio][pop_roc]2105__1,IRMAS-TrainingData\vio\[vio][pop_roc]2105__1.wav,Violin,2
+[vio][pop_roc]2100__3,[vio][pop_roc]2100__3,IRMAS-TrainingData\vio\[vio][pop_roc]2100__3.wav,Violin,2
+[vio][jaz_blu]2133__1,[vio][jaz_blu]2133__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2133__1.wav,Violin,2
+[vio][jaz_blu]2232__3,[vio][jaz_blu]2232__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2232__3.wav,Violin,2
+165__[vio][nod][cla]2179__2,165__[vio][nod][cla]2179__2,IRMAS-TrainingData\vio\165__[vio][nod][cla]2179__2.wav,Violin,2
+[vio][jaz_blu]2124__3,[vio][jaz_blu]2124__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2124__3.wav,Violin,2
+[vio][pop_roc]2139__2,[vio][pop_roc]2139__2,IRMAS-TrainingData\vio\[vio][pop_roc]2139__2.wav,Violin,2
+[vio][jaz_blu]2106__1,[vio][jaz_blu]2106__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2106__1.wav,Violin,2
+[vio][pop_roc]2243__2,[vio][pop_roc]2243__2,IRMAS-TrainingData\vio\[vio][pop_roc]2243__2.wav,Violin,2
+[vio][pop_roc]2126__3,[vio][pop_roc]2126__3,IRMAS-TrainingData\vio\[vio][pop_roc]2126__3.wav,Violin,2
+148__[vio][nod][cla]2177__3,148__[vio][nod][cla]2177__3,IRMAS-TrainingData\vio\148__[vio][nod][cla]2177__3.wav,Violin,2
+[vio][cla]2111__1,[vio][cla]2111__1,IRMAS-TrainingData\vio\[vio][cla]2111__1.wav,Violin,2
+[vio][jaz_blu]2093__3,[vio][jaz_blu]2093__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2093__3.wav,Violin,2
+122__[vio][nod][cla]2176__1,122__[vio][nod][cla]2176__1,IRMAS-TrainingData\vio\122__[vio][nod][cla]2176__1.wav,Violin,2
+121__[vio][nod][cla]2161__3,121__[vio][nod][cla]2161__3,IRMAS-TrainingData\vio\121__[vio][nod][cla]2161__3.wav,Violin,2
+093__[vio][nod][cla]2180__1,093__[vio][nod][cla]2180__1,IRMAS-TrainingData\vio\093__[vio][nod][cla]2180__1.wav,Violin,2
+[vio][cla]2256__3,[vio][cla]2256__3,IRMAS-TrainingData\vio\[vio][cla]2256__3.wav,Violin,2
+099__[vio][nod][cla]2172__2,099__[vio][nod][cla]2172__2,IRMAS-TrainingData\vio\099__[vio][nod][cla]2172__2.wav,Violin,2
+[vio][cla]2222__1,[vio][cla]2222__1,IRMAS-TrainingData\vio\[vio][cla]2222__1.wav,Violin,2
+[vio][jaz_blu]2226__3,[vio][jaz_blu]2226__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2226__3.wav,Violin,2
+[vio][jaz_blu]2092__2,[vio][jaz_blu]2092__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2092__2.wav,Violin,2
+[vio][cla]2112__1,[vio][cla]2112__1,IRMAS-TrainingData\vio\[vio][cla]2112__1.wav,Violin,2
+[vio][cla]2213__1,[vio][cla]2213__1,IRMAS-TrainingData\vio\[vio][cla]2213__1.wav,Violin,2
+[vio][jaz_blu]2132__3,[vio][jaz_blu]2132__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2132__3.wav,Violin,2
+[vio][cla]2277__2,[vio][cla]2277__2,IRMAS-TrainingData\vio\[vio][cla]2277__2.wav,Violin,2
+[vio][pop_roc]2145__3,[vio][pop_roc]2145__3,IRMAS-TrainingData\vio\[vio][pop_roc]2145__3.wav,Violin,2
+[vio][jaz_blu]2229__2,[vio][jaz_blu]2229__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2229__2.wav,Violin,2
+[vio][cla]2271__2,[vio][cla]2271__2,IRMAS-TrainingData\vio\[vio][cla]2271__2.wav,Violin,2
+[vio][pop_roc]2204__1,[vio][pop_roc]2204__1,IRMAS-TrainingData\vio\[vio][pop_roc]2204__1.wav,Violin,2
+[vio][jaz_blu]2113__2,[vio][jaz_blu]2113__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2113__2.wav,Violin,2
+[vio][jaz_blu]2242__1,[vio][jaz_blu]2242__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2242__1.wav,Violin,2
+121__[vio][nod][cla]2161__2,121__[vio][nod][cla]2161__2,IRMAS-TrainingData\vio\121__[vio][nod][cla]2161__2.wav,Violin,2
+[vio][jaz_blu]2231__2,[vio][jaz_blu]2231__2,IRMAS-TrainingData\vio\[vio][jaz_blu]2231__2.wav,Violin,2
+128__[vio][nod][cou_fol]2197__2,128__[vio][nod][cou_fol]2197__2,IRMAS-TrainingData\vio\128__[vio][nod][cou_fol]2197__2.wav,Violin,2
+[vio][jaz_blu]2119__1,[vio][jaz_blu]2119__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2119__1.wav,Violin,2
+[vio][jaz_blu]2229__1,[vio][jaz_blu]2229__1,IRMAS-TrainingData\vio\[vio][jaz_blu]2229__1.wav,Violin,2
+[vio][pop_roc]2249__2,[vio][pop_roc]2249__2,IRMAS-TrainingData\vio\[vio][pop_roc]2249__2.wav,Violin,2
+[vio][pop_roc]2096__2,[vio][pop_roc]2096__2,IRMAS-TrainingData\vio\[vio][pop_roc]2096__2.wav,Violin,2
+[vio][jaz_blu]2235__3,[vio][jaz_blu]2235__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2235__3.wav,Violin,2
+045__[vio][nod][cla]2173__3,045__[vio][nod][cla]2173__3,IRMAS-TrainingData\vio\045__[vio][nod][cla]2173__3.wav,Violin,2
+[vio][cla]2267__2,[vio][cla]2267__2,IRMAS-TrainingData\vio\[vio][cla]2267__2.wav,Violin,2
+[vio][cla]2219__3,[vio][cla]2219__3,IRMAS-TrainingData\vio\[vio][cla]2219__3.wav,Violin,2
+[vio][cla]2267__3,[vio][cla]2267__3,IRMAS-TrainingData\vio\[vio][cla]2267__3.wav,Violin,2
+[vio][pop_roc]2202__3,[vio][pop_roc]2202__3,IRMAS-TrainingData\vio\[vio][pop_roc]2202__3.wav,Violin,2
+[vio][cla]2103__1,[vio][cla]2103__1,IRMAS-TrainingData\vio\[vio][cla]2103__1.wav,Violin,2
+045__[vio][nod][cla]2173__1,045__[vio][nod][cla]2173__1,IRMAS-TrainingData\vio\045__[vio][nod][cla]2173__1.wav,Violin,2
+[vio][cla]2280__1,[vio][cla]2280__1,IRMAS-TrainingData\vio\[vio][cla]2280__1.wav,Violin,2
+077__[vio][nod][cla]2166__2,077__[vio][nod][cla]2166__2,IRMAS-TrainingData\vio\077__[vio][nod][cla]2166__2.wav,Violin,2
+[vio][pop_roc]2140__1,[vio][pop_roc]2140__1,IRMAS-TrainingData\vio\[vio][pop_roc]2140__1.wav,Violin,2
+[vio][jaz_blu]2242__3,[vio][jaz_blu]2242__3,IRMAS-TrainingData\vio\[vio][jaz_blu]2242__3.wav,Violin,2
+[vio][cla]2277__1,[vio][cla]2277__1,IRMAS-TrainingData\vio\[vio][cla]2277__1.wav,Violin,2
+[vio][cla]2262__3,[vio][cla]2262__3,IRMAS-TrainingData\vio\[vio][cla]2262__3.wav,Violin,2
+115__[vio][nod][cla]2150__3,115__[vio][nod][cla]2150__3,IRMAS-TrainingData\vio\115__[vio][nod][cla]2150__3.wav,Violin,2
+[vio][pop_roc]2251__1,[vio][pop_roc]2251__1,IRMAS-TrainingData\vio\[vio][pop_roc]2251__1.wav,Violin,2
+[vio][cla]2271__1,[vio][cla]2271__1,IRMAS-TrainingData\vio\[vio][cla]2271__1.wav,Violin,2
+096__[vio][dru][pop_roc]2201__3,096__[vio][dru][pop_roc]2201__3,IRMAS-TrainingData\vio\096__[vio][dru][pop_roc]2201__3.wav,Violin,2
+103__[vio][nod][cla]2175__2,103__[vio][nod][cla]2175__2,IRMAS-TrainingData\vio\103__[vio][nod][cla]2175__2.wav,Violin,2
+178__[vio][nod][cou_fol]2196__1,178__[vio][nod][cou_fol]2196__1,IRMAS-TrainingData\vio\178__[vio][nod][cou_fol]2196__1.wav,Violin,2
+[vio][cla]2265__2,[vio][cla]2265__2,IRMAS-TrainingData\vio\[vio][cla]2265__2.wav,Violin,2
+[vio][cla]2219__1,[vio][cla]2219__1,IRMAS-TrainingData\vio\[vio][cla]2219__1.wav,Violin,2
+082__[vio][nod][cla]2165__1,082__[vio][nod][cla]2165__1,IRMAS-TrainingData\vio\082__[vio][nod][cla]2165__1.wav,Violin,2
+[flu][pop_roc]0372__3,[flu][pop_roc]0372__3,IRMAS-TrainingData\flu\[flu][pop_roc]0372__3.wav,Flute,3
+[flu][cla]0369__1,[flu][cla]0369__1,IRMAS-TrainingData\flu\[flu][cla]0369__1.wav,Flute,3
+[flu][pop_roc]0395__2,[flu][pop_roc]0395__2,IRMAS-TrainingData\flu\[flu][pop_roc]0395__2.wav,Flute,3
+[flu][jaz_blu]0498__1,[flu][jaz_blu]0498__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0498__1.wav,Flute,3
+[flu][jaz_blu]0447__3,[flu][jaz_blu]0447__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0447__3.wav,Flute,3
+150__[flu][dru][cou_fol]0417__3,150__[flu][dru][cou_fol]0417__3,IRMAS-TrainingData\flu\150__[flu][dru][cou_fol]0417__3.wav,Flute,3
+[flu][jaz_blu]0452__2,[flu][jaz_blu]0452__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0452__2.wav,Flute,3
+[flu][jaz_blu]0405__2,[flu][jaz_blu]0405__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0405__2.wav,Flute,3
+[flu][pop_roc]0482__1,[flu][pop_roc]0482__1,IRMAS-TrainingData\flu\[flu][pop_roc]0482__1.wav,Flute,3
+057__[flu][dru][cou_fol]0407__3,057__[flu][dru][cou_fol]0407__3,IRMAS-TrainingData\flu\057__[flu][dru][cou_fol]0407__3.wav,Flute,3
+[flu][jaz_blu]0423__3,[flu][jaz_blu]0423__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0423__3.wav,Flute,3
+[flu][cla]0348__3,[flu][cla]0348__3,IRMAS-TrainingData\flu\[flu][cla]0348__3.wav,Flute,3
+[flu][jaz_blu]0452__3,[flu][jaz_blu]0452__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0452__3.wav,Flute,3
+[flu][jaz_blu]0380__1,[flu][jaz_blu]0380__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0380__1.wav,Flute,3
+[flu][jaz_blu]0432__1,[flu][jaz_blu]0432__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0432__1.wav,Flute,3
+[flu][jaz_blu]0461__2,[flu][jaz_blu]0461__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0461__2.wav,Flute,3
+058__[flu][nod][jaz_blu]0775__1,058__[flu][nod][jaz_blu]0775__1,IRMAS-TrainingData\flu\058__[flu][nod][jaz_blu]0775__1.wav,Flute,3
+[flu][jaz_blu]0460__3,[flu][jaz_blu]0460__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0460__3.wav,Flute,3
+[flu][jaz_blu]0443__1,[flu][jaz_blu]0443__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0443__1.wav,Flute,3
+[flu][pop_roc]0371__2,[flu][pop_roc]0371__2,IRMAS-TrainingData\flu\[flu][pop_roc]0371__2.wav,Flute,3
+[flu][pop_roc]0481__3,[flu][pop_roc]0481__3,IRMAS-TrainingData\flu\[flu][pop_roc]0481__3.wav,Flute,3
+[flu][cla]0400__1,[flu][cla]0400__1,IRMAS-TrainingData\flu\[flu][cla]0400__1.wav,Flute,3
+[flu][pop_roc]0406__2,[flu][pop_roc]0406__2,IRMAS-TrainingData\flu\[flu][pop_roc]0406__2.wav,Flute,3
+030__[flu][nod][cla]0373__1,030__[flu][nod][cla]0373__1,IRMAS-TrainingData\flu\030__[flu][nod][cla]0373__1.wav,Flute,3
+[flu][cla]0439__3,[flu][cla]0439__3,IRMAS-TrainingData\flu\[flu][cla]0439__3.wav,Flute,3
+[flu][cla]0385__3,[flu][cla]0385__3,IRMAS-TrainingData\flu\[flu][cla]0385__3.wav,Flute,3
+[flu][pop_roc]0483__2,[flu][pop_roc]0483__2,IRMAS-TrainingData\flu\[flu][pop_roc]0483__2.wav,Flute,3
+008__[flu][nod][cla]0393__2,008__[flu][nod][cla]0393__2,IRMAS-TrainingData\flu\008__[flu][nod][cla]0393__2.wav,Flute,3
+[flu][pop_roc]0467__1,[flu][pop_roc]0467__1,IRMAS-TrainingData\flu\[flu][pop_roc]0467__1.wav,Flute,3
+[flu][cla]0373__1,[flu][cla]0373__1,IRMAS-TrainingData\flu\[flu][cla]0373__1.wav,Flute,3
+[flu][jaz_blu]0494__1,[flu][jaz_blu]0494__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0494__1.wav,Flute,3
+093__[flu][dru][pop_roc]0420__3,093__[flu][dru][pop_roc]0420__3,IRMAS-TrainingData\flu\093__[flu][dru][pop_roc]0420__3.wav,Flute,3
+051__[flu][nod][cou_fol]0413__1,051__[flu][nod][cou_fol]0413__1,IRMAS-TrainingData\flu\051__[flu][nod][cou_fol]0413__1.wav,Flute,3
+[flu][jaz_blu]0381__2,[flu][jaz_blu]0381__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0381__2.wav,Flute,3
+[flu][cla]0428__3,[flu][cla]0428__3,IRMAS-TrainingData\flu\[flu][cla]0428__3.wav,Flute,3
+[flu][pop_roc]0387__2,[flu][pop_roc]0387__2,IRMAS-TrainingData\flu\[flu][pop_roc]0387__2.wav,Flute,3
+061__[flu][dru][pop_roc]0419__1,061__[flu][dru][pop_roc]0419__1,IRMAS-TrainingData\flu\061__[flu][dru][pop_roc]0419__1.wav,Flute,3
+[flu][jaz_blu]0457__3,[flu][jaz_blu]0457__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0457__3.wav,Flute,3
+058__[flu][nod][jaz_blu]0775__2,058__[flu][nod][jaz_blu]0775__2,IRMAS-TrainingData\flu\058__[flu][nod][jaz_blu]0775__2.wav,Flute,3
+093__[flu][dru][pop_roc]0420__1,093__[flu][dru][pop_roc]0420__1,IRMAS-TrainingData\flu\093__[flu][dru][pop_roc]0420__1.wav,Flute,3
+[flu][jaz_blu]0444__3,[flu][jaz_blu]0444__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0444__3.wav,Flute,3
+033__[flu][dru][cou_fol]0415__3,033__[flu][dru][cou_fol]0415__3,IRMAS-TrainingData\flu\033__[flu][dru][cou_fol]0415__3.wav,Flute,3
+[flu][cla]0394__2,[flu][cla]0394__2,IRMAS-TrainingData\flu\[flu][cla]0394__2.wav,Flute,3
+[flu][cla]0442__1,[flu][cla]0442__1,IRMAS-TrainingData\flu\[flu][cla]0442__1.wav,Flute,3
+[flu][cla]0362__3,[flu][cla]0362__3,IRMAS-TrainingData\flu\[flu][cla]0362__3.wav,Flute,3
+[flu][pop_roc]0472__1,[flu][pop_roc]0472__1,IRMAS-TrainingData\flu\[flu][pop_roc]0472__1.wav,Flute,3
+[flu][cla]0349__2,[flu][cla]0349__2,IRMAS-TrainingData\flu\[flu][cla]0349__2.wav,Flute,3
+[flu][pop_roc]0471__3,[flu][pop_roc]0471__3,IRMAS-TrainingData\flu\[flu][pop_roc]0471__3.wav,Flute,3
+[flu][pop_roc]0354__3,[flu][pop_roc]0354__3,IRMAS-TrainingData\flu\[flu][pop_roc]0354__3.wav,Flute,3
+[flu][pop_roc]0424__2,[flu][pop_roc]0424__2,IRMAS-TrainingData\flu\[flu][pop_roc]0424__2.wav,Flute,3
+[flu][pop_roc]0356__2,[flu][pop_roc]0356__2,IRMAS-TrainingData\flu\[flu][pop_roc]0356__2.wav,Flute,3
+[flu][jaz_blu]0381__1,[flu][jaz_blu]0381__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0381__1.wav,Flute,3
+[flu][cla]0434__3,[flu][cla]0434__3,IRMAS-TrainingData\flu\[flu][cla]0434__3.wav,Flute,3
+[flu][cla]0437__1,[flu][cla]0437__1,IRMAS-TrainingData\flu\[flu][cla]0437__1.wav,Flute,3
+[flu][jaz_blu]0405__3,[flu][jaz_blu]0405__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0405__3.wav,Flute,3
+[flu][cla]0435__2,[flu][cla]0435__2,IRMAS-TrainingData\flu\[flu][cla]0435__2.wav,Flute,3
+[flu][cla]0435__1,[flu][cla]0435__1,IRMAS-TrainingData\flu\[flu][cla]0435__1.wav,Flute,3
+139__[flu][nod][cou_fol]0411__1,139__[flu][nod][cou_fol]0411__1,IRMAS-TrainingData\flu\139__[flu][nod][cou_fol]0411__1.wav,Flute,3
+[flu][pop_roc]0374__1,[flu][pop_roc]0374__1,IRMAS-TrainingData\flu\[flu][pop_roc]0374__1.wav,Flute,3
+[flu][pop_roc]0364__1,[flu][pop_roc]0364__1,IRMAS-TrainingData\flu\[flu][pop_roc]0364__1.wav,Flute,3
+[flu][jaz_blu]0457__2,[flu][jaz_blu]0457__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0457__2.wav,Flute,3
+[flu][cla]0349__1,[flu][cla]0349__1,IRMAS-TrainingData\flu\[flu][cla]0349__1.wav,Flute,3
+[flu][pop_roc]0358__3,[flu][pop_roc]0358__3,IRMAS-TrainingData\flu\[flu][pop_roc]0358__3.wav,Flute,3
+[flu][cla]0429__2,[flu][cla]0429__2,IRMAS-TrainingData\flu\[flu][cla]0429__2.wav,Flute,3
+[flu][cla]0346__2,[flu][cla]0346__2,IRMAS-TrainingData\flu\[flu][cla]0346__2.wav,Flute,3
+[flu][cla]0362__2,[flu][cla]0362__2,IRMAS-TrainingData\flu\[flu][cla]0362__2.wav,Flute,3
+[flu][jaz_blu]0457__1,[flu][jaz_blu]0457__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0457__1.wav,Flute,3
+[flu][cla]0439__2,[flu][cla]0439__2,IRMAS-TrainingData\flu\[flu][cla]0439__2.wav,Flute,3
+[flu][jaz_blu]0455__2,[flu][jaz_blu]0455__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0455__2.wav,Flute,3
+[flu][cla]0348__1,[flu][cla]0348__1,IRMAS-TrainingData\flu\[flu][cla]0348__1.wav,Flute,3
+[flu][pop_roc]0424__1,[flu][pop_roc]0424__1,IRMAS-TrainingData\flu\[flu][pop_roc]0424__1.wav,Flute,3
+[flu][cla]0376__1,[flu][cla]0376__1,IRMAS-TrainingData\flu\[flu][cla]0376__1.wav,Flute,3
+[flu][pop_roc]0485__1,[flu][pop_roc]0485__1,IRMAS-TrainingData\flu\[flu][pop_roc]0485__1.wav,Flute,3
+[flu][pop_roc]0486__2,[flu][pop_roc]0486__2,IRMAS-TrainingData\flu\[flu][pop_roc]0486__2.wav,Flute,3
+[flu][cla]0397__2,[flu][cla]0397__2,IRMAS-TrainingData\flu\[flu][cla]0397__2.wav,Flute,3
+[flu][jaz_blu]0443__2,[flu][jaz_blu]0443__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0443__2.wav,Flute,3
+[flu][pop_roc]0487__3,[flu][pop_roc]0487__3,IRMAS-TrainingData\flu\[flu][pop_roc]0487__3.wav,Flute,3
+[flu][pop_roc]0395__3,[flu][pop_roc]0395__3,IRMAS-TrainingData\flu\[flu][pop_roc]0395__3.wav,Flute,3
+[flu][jaz_blu]0458__1,[flu][jaz_blu]0458__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0458__1.wav,Flute,3
+[flu][jaz_blu]0381__3,[flu][jaz_blu]0381__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0381__3.wav,Flute,3
+[flu][jaz_blu]0456__1,[flu][jaz_blu]0456__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0456__1.wav,Flute,3
+[flu][cla]0435__3,[flu][cla]0435__3,IRMAS-TrainingData\flu\[flu][cla]0435__3.wav,Flute,3
+[flu][cla]0377__1,[flu][cla]0377__1,IRMAS-TrainingData\flu\[flu][cla]0377__1.wav,Flute,3
+[flu][cla]0383__2,[flu][cla]0383__2,IRMAS-TrainingData\flu\[flu][cla]0383__2.wav,Flute,3
+[flu][jaz_blu]0432__3,[flu][jaz_blu]0432__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0432__3.wav,Flute,3
+[flu][cla]0429__1,[flu][cla]0429__1,IRMAS-TrainingData\flu\[flu][cla]0429__1.wav,Flute,3
+[flu][cla]0353__3,[flu][cla]0353__3,IRMAS-TrainingData\flu\[flu][cla]0353__3.wav,Flute,3
+[flu][cla]0391__3,[flu][cla]0391__3,IRMAS-TrainingData\flu\[flu][cla]0391__3.wav,Flute,3
+[flu][cla]0366__1,[flu][cla]0366__1,IRMAS-TrainingData\flu\[flu][cla]0366__1.wav,Flute,3
+160__[flu][dru][pop_roc]0422__2,160__[flu][dru][pop_roc]0422__2,IRMAS-TrainingData\flu\160__[flu][dru][pop_roc]0422__2.wav,Flute,3
+[flu][pop_roc]0479__2,[flu][pop_roc]0479__2,IRMAS-TrainingData\flu\[flu][pop_roc]0479__2.wav,Flute,3
+[flu][pop_roc]0471__2,[flu][pop_roc]0471__2,IRMAS-TrainingData\flu\[flu][pop_roc]0471__2.wav,Flute,3
+[flu][jaz_blu]0380__3,[flu][jaz_blu]0380__3,IRMAS-TrainingData\flu\[flu][jaz_blu]0380__3.wav,Flute,3
+[flu][jaz_blu]0503__2,[flu][jaz_blu]0503__2,IRMAS-TrainingData\flu\[flu][jaz_blu]0503__2.wav,Flute,3
+018__[flu][nod][pop_roc]0421__3,018__[flu][nod][pop_roc]0421__3,IRMAS-TrainingData\flu\018__[flu][nod][pop_roc]0421__3.wav,Flute,3
+[flu][cla]0382__2,[flu][cla]0382__2,IRMAS-TrainingData\flu\[flu][cla]0382__2.wav,Flute,3
+[flu][pop_roc]0497__2,[flu][pop_roc]0497__2,IRMAS-TrainingData\flu\[flu][pop_roc]0497__2.wav,Flute,3
+061__[flu][dru][pop_roc]0419__3,061__[flu][dru][pop_roc]0419__3,IRMAS-TrainingData\flu\061__[flu][dru][pop_roc]0419__3.wav,Flute,3
+155__[flu][nod][cou_fol]0416__2,155__[flu][nod][cou_fol]0416__2,IRMAS-TrainingData\flu\155__[flu][nod][cou_fol]0416__2.wav,Flute,3
+[flu][jaz_blu]0500__1,[flu][jaz_blu]0500__1,IRMAS-TrainingData\flu\[flu][jaz_blu]0500__1.wav,Flute,3
+[tru][cla]1870__2,[tru][cla]1870__2,IRMAS-TrainingData\tru\[tru][cla]1870__2.wav,Trumpet,4
+[tru][pop_roc]1937__1,[tru][pop_roc]1937__1,IRMAS-TrainingData\tru\[tru][pop_roc]1937__1.wav,Trumpet,4
+[tru][cla]1881__3,[tru][cla]1881__3,IRMAS-TrainingData\tru\[tru][cla]1881__3.wav,Trumpet,4
+[tru][jaz_blu]1932__1,[tru][jaz_blu]1932__1,IRMAS-TrainingData\tru\[tru][jaz_blu]1932__1.wav,Trumpet,4
+[tru][cla]1879__2,[tru][cla]1879__2,IRMAS-TrainingData\tru\[tru][cla]1879__2.wav,Trumpet,4
+[tru][jaz_blu]2063__3,[tru][jaz_blu]2063__3,IRMAS-TrainingData\tru\[tru][jaz_blu]2063__3.wav,Trumpet,4
+[tru][pop_roc]1921__2,[tru][pop_roc]1921__2,IRMAS-TrainingData\tru\[tru][pop_roc]1921__2.wav,Trumpet,4
+[tru][jaz_blu]1919__2,[tru][jaz_blu]1919__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1919__2.wav,Trumpet,4
+[tru][pop_roc]2047__3,[tru][pop_roc]2047__3,IRMAS-TrainingData\tru\[tru][pop_roc]2047__3.wav,Trumpet,4
+[tru][jaz_blu]1899__2,[tru][jaz_blu]1899__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1899__2.wav,Trumpet,4
+[tru][cla]1886__2,[tru][cla]1886__2,IRMAS-TrainingData\tru\[tru][cla]1886__2.wav,Trumpet,4
+[tru][cla]2011__1,[tru][cla]2011__1,IRMAS-TrainingData\tru\[tru][cla]2011__1.wav,Trumpet,4
+[tru][pop_roc]2035__2,[tru][pop_roc]2035__2,IRMAS-TrainingData\tru\[tru][pop_roc]2035__2.wav,Trumpet,4
+[tru][jaz_blu]1960__2,[tru][jaz_blu]1960__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1960__2.wav,Trumpet,4
+[tru][jaz_blu]1973__2,[tru][jaz_blu]1973__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1973__2.wav,Trumpet,4
+[tru][jaz_blu]1974__1,[tru][jaz_blu]1974__1,IRMAS-TrainingData\tru\[tru][jaz_blu]1974__1.wav,Trumpet,4
+[tru][jaz_blu]1925__2,[tru][jaz_blu]1925__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1925__2.wav,Trumpet,4
+[tru][jaz_blu]1965__3,[tru][jaz_blu]1965__3,IRMAS-TrainingData\tru\[tru][jaz_blu]1965__3.wav,Trumpet,4
+[tru][cla]2012__1,[tru][cla]2012__1,IRMAS-TrainingData\tru\[tru][cla]2012__1.wav,Trumpet,4
+[tru][pop_roc]2041__2,[tru][pop_roc]2041__2,IRMAS-TrainingData\tru\[tru][pop_roc]2041__2.wav,Trumpet,4
+[tru][jaz_blu]1905__3,[tru][jaz_blu]1905__3,IRMAS-TrainingData\tru\[tru][jaz_blu]1905__3.wav,Trumpet,4
+[tru][pop_roc]1895__2,[tru][pop_roc]1895__2,IRMAS-TrainingData\tru\[tru][pop_roc]1895__2.wav,Trumpet,4
+[tru][jaz_blu]1965__1,[tru][jaz_blu]1965__1,IRMAS-TrainingData\tru\[tru][jaz_blu]1965__1.wav,Trumpet,4
+[tru][jaz_blu]1949__2,[tru][jaz_blu]1949__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1949__2.wav,Trumpet,4
+[tru][cla]1893__1,[tru][cla]1893__1,IRMAS-TrainingData\tru\[tru][cla]1893__1.wav,Trumpet,4
+[tru][pop_roc]2068__3,[tru][pop_roc]2068__3,IRMAS-TrainingData\tru\[tru][pop_roc]2068__3.wav,Trumpet,4
+[tru][cla]2060__3,[tru][cla]2060__3,IRMAS-TrainingData\tru\[tru][cla]2060__3.wav,Trumpet,4
+[tru][pop_roc]1910__1,[tru][pop_roc]1910__1,IRMAS-TrainingData\tru\[tru][pop_roc]1910__1.wav,Trumpet,4
+[tru][pop_roc]2068__2,[tru][pop_roc]2068__2,IRMAS-TrainingData\tru\[tru][pop_roc]2068__2.wav,Trumpet,4
+[tru][pop_roc]1998__3,[tru][pop_roc]1998__3,IRMAS-TrainingData\tru\[tru][pop_roc]1998__3.wav,Trumpet,4
+[tru][cla]1881__2,[tru][cla]1881__2,IRMAS-TrainingData\tru\[tru][cla]1881__2.wav,Trumpet,4
+[tru][jaz_blu]2017__1,[tru][jaz_blu]2017__1,IRMAS-TrainingData\tru\[tru][jaz_blu]2017__1.wav,Trumpet,4
+[tru][jaz_blu]2029__3,[tru][jaz_blu]2029__3,IRMAS-TrainingData\tru\[tru][jaz_blu]2029__3.wav,Trumpet,4
+[tru][pop_roc]2042__3,[tru][pop_roc]2042__3,IRMAS-TrainingData\tru\[tru][pop_roc]2042__3.wav,Trumpet,4
+[tru][pop_roc]1896__2,[tru][pop_roc]1896__2,IRMAS-TrainingData\tru\[tru][pop_roc]1896__2.wav,Trumpet,4
+[tru][jaz_blu]2079__1,[tru][jaz_blu]2079__1,IRMAS-TrainingData\tru\[tru][jaz_blu]2079__1.wav,Trumpet,4
+[tru][cla]2014__1,[tru][cla]2014__1,IRMAS-TrainingData\tru\[tru][cla]2014__1.wav,Trumpet,4
+[tru][jaz_blu]2028__1,[tru][jaz_blu]2028__1,IRMAS-TrainingData\tru\[tru][jaz_blu]2028__1.wav,Trumpet,4
+[tru][cla]2070__3,[tru][cla]2070__3,IRMAS-TrainingData\tru\[tru][cla]2070__3.wav,Trumpet,4
+[tru][pop_roc]2047__1,[tru][pop_roc]2047__1,IRMAS-TrainingData\tru\[tru][pop_roc]2047__1.wav,Trumpet,4
+[tru][pop_roc]1970__1,[tru][pop_roc]1970__1,IRMAS-TrainingData\tru\[tru][pop_roc]1970__1.wav,Trumpet,4
+[tru][jaz_blu]1926__3,[tru][jaz_blu]1926__3,IRMAS-TrainingData\tru\[tru][jaz_blu]1926__3.wav,Trumpet,4
+[tru][jaz_blu]1914__2,[tru][jaz_blu]1914__2,IRMAS-TrainingData\tru\[tru][jaz_blu]1914__2.wav,Trumpet,4
+[tru][cla]2012__2,[tru][cla]2012__2,IRMAS-TrainingData\tru\[tru][cla]2012__2.wav,Trumpet,4
+[tru][pop_roc]1955__3,[tru][pop_roc]1955__3,IRMAS-TrainingData\tru\[tru][pop_roc]1955__3.wav,Trumpet,4
+[tru][cla]1887__1,[tru][cla]1887__1,IRMAS-TrainingData\tru\[tru][cla]1887__1.wav,Trumpet,4
+[tru][pop_roc]2078__2,[tru][pop_roc]2078__2,IRMAS-TrainingData\tru\[tru][pop_roc]2078__2.wav,Trumpet,4
+[tru][pop_roc]1895__1,[tru][pop_roc]1895__1,IRMAS-TrainingData\tru\[tru][pop_roc]1895__1.wav,Trumpet,4
+[tru][pop_roc]2044__2,[tru][pop_roc]2044__2,IRMAS-TrainingData\tru\[tru][pop_roc]2044__2.wav,Trumpet,4
+[tru][cla]2008__3,[tru][cla]2008__3,IRMAS-TrainingData\tru\[tru][cla]2008__3.wav,Trumpet,4
+[sax][jaz_blu]1742__2,[sax][jaz_blu]1742__2,IRMAS-TrainingData\sax\[sax][jaz_blu]1742__2.wav,Saxophone,5
+[sax][cla]1723__3,[sax][cla]1723__3,IRMAS-TrainingData\sax\[sax][cla]1723__3.wav,Saxophone,5
+[sax][cla]1729__1,[sax][cla]1729__1,IRMAS-TrainingData\sax\[sax][cla]1729__1.wav,Saxophone,5
+[sax][cla]1631__2,[sax][cla]1631__2,IRMAS-TrainingData\sax\[sax][cla]1631__2.wav,Saxophone,5
+[sax][jaz_blu]1634__3,[sax][jaz_blu]1634__3,IRMAS-TrainingData\sax\[sax][jaz_blu]1634__3.wav,Saxophone,5
+098__[sax][nod][cla]1685__3,098__[sax][nod][cla]1685__3,IRMAS-TrainingData\sax\098__[sax][nod][cla]1685__3.wav,Saxophone,5
+[sax][jaz_blu]1771__2,[sax][jaz_blu]1771__2,IRMAS-TrainingData\sax\[sax][jaz_blu]1771__2.wav,Saxophone,5
+[sax][jaz_blu]1735__2,[sax][jaz_blu]1735__2,IRMAS-TrainingData\sax\[sax][jaz_blu]1735__2.wav,Saxophone,5
+118__[sax][nod][jaz_blu]1702__2,118__[sax][nod][jaz_blu]1702__2,IRMAS-TrainingData\sax\118__[sax][nod][jaz_blu]1702__2.wav,Saxophone,5
+[sax][pop_roc]1596__1,[sax][pop_roc]1596__1,IRMAS-TrainingData\sax\[sax][pop_roc]1596__1.wav,Saxophone,5
+[sax][cla]1602__1,[sax][cla]1602__1,IRMAS-TrainingData\sax\[sax][cla]1602__1.wav,Saxophone,5
+065__[sax][nod][cla]1672__2,065__[sax][nod][cla]1672__2,IRMAS-TrainingData\sax\065__[sax][nod][cla]1672__2.wav,Saxophone,5
+[sax][cla]1748__2,[sax][cla]1748__2,IRMAS-TrainingData\sax\[sax][cla]1748__2.wav,Saxophone,5
+[sax][jaz_blu]1738__3,[sax][jaz_blu]1738__3,IRMAS-TrainingData\sax\[sax][jaz_blu]1738__3.wav,Saxophone,5
+[sax][pop_roc]1659__3,[sax][pop_roc]1659__3,IRMAS-TrainingData\sax\[sax][pop_roc]1659__3.wav,Saxophone,5
+[sax][pop_roc]1659__1,[sax][pop_roc]1659__1,IRMAS-TrainingData\sax\[sax][pop_roc]1659__1.wav,Saxophone,5
+058__[sax][nod][cla]1662__2,058__[sax][nod][cla]1662__2,IRMAS-TrainingData\sax\058__[sax][nod][cla]1662__2.wav,Saxophone,5
+085__[sax][nod][cla]1693__3,085__[sax][nod][cla]1693__3,IRMAS-TrainingData\sax\085__[sax][nod][cla]1693__3.wav,Saxophone,5
+[sax][cla]1601__1,[sax][cla]1601__1,IRMAS-TrainingData\sax\[sax][cla]1601__1.wav,Saxophone,5
+[sax][pop_roc]1628__3,[sax][pop_roc]1628__3,IRMAS-TrainingData\sax\[sax][pop_roc]1628__3.wav,Saxophone,5
