@@ -8,12 +8,12 @@
 **Целевые классы:** Piano, Acoustic Guitar, Violin, Flute, Trumpet, Saxophone.
 
 ## 📂 Структура проекта
-- `prepare_data.py` — Парсинг датасета IRMAS, создание сбалансированной и несбалансированной (Long-tail) выборок.
-- `baseline.py` — Базовая модель: MFCC + MLP (сравнение Balanced vs Imbalanced).
-- `wav2vec2_weights.py` — Использование эмбеддингов Wav2Vec2 и Class Weights для борьбы с дисбалансом.
-- `oversampling.py` — Применение Random Oversampling к редким классам.
-- `cqt_cnn.py` — Финальная архитектура: CQT-спектрограммы + 2D CNN (Best Performance).
-- `train_balanced.csv`, `train_imbalanced.csv`, `test_full.csv` — Сгенерированные метаданные для воспроизведения экспериментов.
+- `prepare_data.py` - Парсинг датасета IRMAS, создание сбалансированной и несбалансированной (Long-tail) выборок.
+- `baseline.py` - Базовая модель: MFCC + MLP (сравнение Balanced vs Imbalanced).
+- `wav2vec2_weights.py` - Использование эмбеддингов Wav2Vec2 и Class Weights для борьбы с дисбалансом.
+- `oversampling.py` - Применение Random Oversampling к редким классам.
+- `cqt_cnn.py` - Финальная архитектура: CQT-спектрограммы + 2D CNN (Best Performance).
+- `train_balanced.csv`, `train_imbalanced.csv`, `test_full.csv` - Сгенерированные метаданные для воспроизведения экспериментов.
 
 ## Как запустить ❓
 
